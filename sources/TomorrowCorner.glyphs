@@ -1,10 +1,12 @@
 {
 .appVersion = "1193";
 DisplayStrings = (
-"/dcaron",
-"/dcaron/lcaron/tcaron"
+Demais
 );
-date = "2016-03-09 15:11:54 +0000";
+copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow), with Reserved Font Name “Tomorrow”.";
+date = "2019-04-25 13:37:46 +0000";
+designer = "Tony de Marco";
+designerURL = "http://www.tonydemarco.com.br";
 familyName = Tomorrow;
 featurePrefixes = (
 {
@@ -40539,12 +40541,6 @@ unicode = F000;
 gridSubDivision = 8;
 instances = (
 {
-customParameters = (
-{
-name = weightClass;
-value = 200;
-}
-);
 interpolationWeight = 20;
 instanceInterpolations = {
 "0018AAE5-3623-47DD-B976-BFE254BC69BD" = 1;
@@ -41465,6 +41461,8 @@ ytilde = {
 };
 };
 };
+manufacturer = "Just in Type";
+manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -41473,5 +41471,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

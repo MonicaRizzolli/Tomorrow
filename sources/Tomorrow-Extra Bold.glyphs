@@ -1,9 +1,9 @@
 {
 .appVersion = "1193";
-DisplayStrings = (
-"/Lcaron/dcaron/lcaron/tcaron"
-);
+copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow), with Reserved Font Name “Tomorrow”.";
 date = "2016-03-09 15:11:54 +0000";
+designer = "Tony de Marco";
+designerURL = "http://www.tonydemarco.com.br";
 familyName = Tomorrow;
 featurePrefixes = (
 {
@@ -17992,6 +17992,8 @@ seven = 0;
 };
 };
 };
+manufacturer = "Just in Type";
+manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
