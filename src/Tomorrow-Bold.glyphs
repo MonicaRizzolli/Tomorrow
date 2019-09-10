@@ -1,5 +1,8 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
+DisplayStrings = (
+"/eng"
+);
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
 {
@@ -31,10 +34,7 @@ name = codePageRanges;
 value = (
 1252,
 1250,
-1254,
-1257,
-1258,
-bit 29
+1257
 );
 },
 {

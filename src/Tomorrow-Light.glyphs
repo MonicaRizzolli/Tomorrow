@@ -1,5 +1,5 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
 {
@@ -31,10 +31,7 @@ name = codePageRanges;
 value = (
 1252,
 1250,
-1254,
-1257,
-1258,
-bit 29
+1257
 );
 },
 {
@@ -23996,7 +23993,7 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2019-09-03 16:29:54 +0000";
+lastChange = "2019-09-04 17:02:27 +0000";
 layers = (
 {
 hints = (
@@ -24026,8 +24023,6 @@ closed = 1;
 nodes = (
 "448.37 -187 LINE",
 "529 -103.42 LINE",
-"528.91 0 LINE",
-"529.01 0 LINE",
 "529.01 423.86 LINE",
 "431.11 522.5 LINE",
 "231.83 522.5 LINE",
@@ -24040,8 +24035,6 @@ nodes = (
 "248.15 476.66 LINE",
 "409.48 476.57 LINE",
 "474.11 409.93 LINE",
-"474.08 290.41 LINE",
-"473.66 290.41 LINE",
 "474 -83.21 LINE",
 "421.62 -139.34 LINE",
 "321.83 -139.34 LINE",

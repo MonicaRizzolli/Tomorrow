@@ -1,7 +1,8 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
 DisplayStrings = (
-"/Aogonek/Eogonek/Iogonek/Eng/uni01EA/Uogonek/aogonek/eogonek/iogonek/uni01EB/uogonek"
+"/Aogonek/Eogonek/Iogonek/Eng/uni01EA/Uogonek/aogonek/eogonek/iogonek/uni01EB/uogonek",
+"/eng"
 );
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
@@ -34,10 +35,7 @@ name = codePageRanges;
 value = (
 1252,
 1250,
-1254,
-1257,
-1258,
-bit 29
+1257
 );
 },
 {
@@ -23993,7 +23991,7 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2019-09-03 16:25:56 +0000";
+lastChange = "2019-09-04 17:03:26 +0000";
 layers = (
 {
 hints = (
@@ -24023,8 +24021,6 @@ closed = 1;
 nodes = (
 "435.72 -187 LINE",
 "509.51 -108.56 LINE",
-"509.47 0 LINE",
-"509.49 0 LINE",
 "509.49 428.02 LINE",
 "415.99 522.5 LINE",
 "212.61 522.5 LINE",
@@ -24037,8 +24033,6 @@ nodes = (
 "224.46 492.55 LINE",
 "404.38 492.52 LINE",
 "476.52 418.98 LINE",
-"476.52 302.14 LINE",
-"476.4 302.14 LINE",
 "476.51 -95.91 LINE",
 "420.22 -156.45 LINE",
 "312.12 -156.45 LINE",

@@ -1,7 +1,9 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
 DisplayStrings = (
-"Á"
+"Á",
+"/Eng",
+"/Aogonek/aogonek/uogonek"
 );
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
@@ -27,17 +29,6 @@ value = (
 1,
 2,
 29
-);
-},
-{
-name = codePageRanges;
-value = (
-1252,
-1250,
-1254,
-1257,
-1258,
-bit 29
 );
 },
 {
@@ -645,7 +636,7 @@ uniF000
 );
 }
 );
-date = "2019-09-03 13:15:25 +0000";
+date = "2019-09-10 19:03:13 +0000";
 designer = "Tony de Marco";
 designerURL = "http://www.tonydemarco.com.br";
 disablesNiceNames = 1;
@@ -41927,5 +41918,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

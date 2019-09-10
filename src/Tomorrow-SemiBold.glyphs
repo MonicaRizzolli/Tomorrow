@@ -1,5 +1,8 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
+DisplayStrings = (
+"/eng"
+);
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
 {
@@ -31,10 +34,7 @@ name = codePageRanges;
 value = (
 1252,
 1250,
-1254,
-1257,
-1258,
-bit 29
+1257
 );
 },
 {
@@ -667,7 +667,6 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Demi;
 customParameters = (
 {
 name = typoAscender;
@@ -710,12 +709,12 @@ descender = -200;
 horizontalStems = (
 105
 );
+iconName = Bold;
 id = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-name = DemiBold;
 verticalStems = (
 152
 );
-weight = Bold;
+weight = SemiBold;
 weightValue = 600;
 widthValue = 5;
 xHeight = 523;
@@ -24082,7 +24081,7 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-04 16:58:29 +0000";
 layers = (
 {
 hints = (
@@ -24112,8 +24111,6 @@ closed = 1;
 nodes = (
 "506.24 -187 LINE",
 "609.3 -89 LINE",
-"609.17 0 LINE",
-"609.35 0 LINE",
 "609.35 411.4 LINE",
 "498.25 522.5 LINE",
 "314.55 522.5 LINE",
@@ -24126,8 +24123,6 @@ nodes = (
 "337.65 422.95 LINE",
 "417.4 422.81 LINE",
 "455.49 383.9 LINE",
-"455.44 255.62 LINE",
-"454.8 255.62 LINE",
 "455.3 -48.06 LINE",
 "422.49 -83 LINE",
 "346.05 -83 LINE",

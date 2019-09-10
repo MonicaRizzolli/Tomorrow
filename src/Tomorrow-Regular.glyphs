@@ -1,5 +1,5 @@
 {
-.appVersion = "1234";
+.appVersion = "1264";
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
 {
@@ -31,10 +31,7 @@ name = codePageRanges;
 value = (
 1252,
 1250,
-1254,
-1257,
-1258,
-bit 29
+1257
 );
 },
 {
@@ -8449,7 +8446,7 @@ unicode = 0145;
 },
 {
 glyphname = Eng;
-lastChange = "2019-09-03 18:39:34 +0000";
+lastChange = "2019-09-04 16:56:14 +0000";
 layers = (
 {
 hints = (
@@ -8481,28 +8478,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"549.5 -170 LINE",
-"631.5 -87 LINE",
-"631.46 737 LINE",
-"540.16 737 LINE",
-"540.16 155.5 LINE",
-"533.58 155.5 LINE",
+"540 -170 LINE",
+"622 -87 LINE",
+"622 737 LINE",
+"530 737 LINE",
+"530 163 LINE",
 "211.25 737 LINE",
 "86.66 737 LINE",
 "86.66 0 LINE",
 "177.96 0 LINE",
 "177.96 581.5 LINE",
 "200.25 581.5 LINE",
-"522.58 0 LINE",
-"532.5 0 LINE",
-"532.5 -59 LINE",
-"490.5 -104 LINE",
-"423.5 -104 LINE",
-"423.5 -170 LINE"
+"530 -12 LINE",
+"530 -52 LINE",
+"481 -104 LINE",
+"414 -104 LINE",
+"414 -170 LINE"
 );
 }
 );
-width = 718;
+width = 708;
 }
 );
 leftKerningGroup = B;
@@ -23977,7 +23972,7 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2019-09-03 16:25:23 +0000";
+lastChange = "2019-09-04 16:56:51 +0000";
 layers = (
 {
 hints = (
@@ -24007,8 +24002,6 @@ closed = 1;
 nodes = (
 "467.37 -187 LINE",
 "558.25 -95.71 LINE",
-"558.07 0 LINE",
-"558.31 0 LINE",
 "558.31 417.63 LINE",
 "453.81 522.5 LINE",
 "260.66 522.5 LINE",
@@ -24021,8 +24014,6 @@ nodes = (
 "283.67 452.83 LINE",
 "417.14 452.65 LINE",
 "470.49 396.36 LINE",
-"470.43 272.83 LINE",
-"469.58 272.83 LINE",
 "470.25 -64.17 LINE",
 "423.75 -113.67 LINE",
 "336.41 -113.67 LINE",
