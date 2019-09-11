@@ -1,8 +1,7 @@
 {
 .appVersion = "1264";
 DisplayStrings = (
-"/Aogonek/Eogonek/Iogonek/Uogonek/aogonek/eogonek/iogonek/uogonek Æ/Eng/OE Q/eng",
-"/eng"
+HAVAWAH
 );
 copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
 customParameters = (
@@ -13640,7 +13639,7 @@ unicode = 0168;
 },
 {
 glyphname = V;
-lastChange = "2019-09-04 12:41:08 +0000";
+lastChange = "2019-09-11 16:00:35 +0000";
 layers = (
 {
 hints = (
@@ -13680,7 +13679,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2019-09-04 12:41:08 +0000";
+lastChange = "2019-09-11 16:00:21 +0000";
 layers = (
 {
 hints = (
@@ -37962,74 +37961,6 @@ note = uni0335;
 unicode = 0335;
 },
 {
-glyphname = uni0337;
-lastChange = "2019-09-04 12:41:08 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{-3.67, 526.17}";
-type = Stem;
-},
-{
-place = "{-465.34, 451.96}";
-type = Stem;
-}
-);
-layerId = "7AC970EF-486C-4FB8-91F6-C99015BB6A18";
-paths = (
-{
-closed = 1;
-nodes = (
-"-13.38 486.21 LINE",
-"-56.5 522.5 LINE",
-"-465.34 33.37 LINE",
-"-421.63 -3.67 LINE"
-);
-}
-);
-width = 0;
-}
-);
-note = uni0337;
-unicode = 0337;
-},
-{
-glyphname = uni0338;
-lastChange = "2019-09-04 12:41:08 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{-69.22, 875.27}";
-type = Stem;
-},
-{
-place = "{-743.05, 875.58}";
-type = Stem;
-}
-);
-layerId = "7AC970EF-486C-4FB8-91F6-C99015BB6A18";
-paths = (
-{
-closed = 1;
-nodes = (
-"132.53 765.71 LINE",
-"83.48 806.05 LINE",
-"-743.05 -28.94 LINE",
-"-694.01 -69.22 LINE"
-);
-}
-);
-width = 0;
-}
-);
-note = uni0338;
-unicode = 0338;
-},
-{
 glyphname = acute;
 lastChange = "2019-09-04 12:41:08 +0000";
 layers = (
@@ -39058,111 +38989,6 @@ width = 0;
 note = uni03020303;
 },
 {
-glyphname = _part.H;
-lastChange = "2019-09-04 12:41:08 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{0, 670}";
-type = Stem;
-},
-{
-place = "{125, 83}";
-type = Stem;
-}
-);
-layerId = "7AC970EF-486C-4FB8-91F6-C99015BB6A18";
-paths = (
-{
-closed = 1;
-nodes = (
-"208 0 LINE",
-"208 670 LINE",
-"125 670 LINE",
-"125 0 LINE"
-);
-}
-);
-width = 333;
-}
-);
-note = _part.H;
-},
-{
-glyphname = _part.i;
-lastChange = "2019-09-04 12:41:08 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{0, 475}";
-type = Stem;
-},
-{
-place = "{76.66, 80}";
-type = Stem;
-}
-);
-layerId = "7AC970EF-486C-4FB8-91F6-C99015BB6A18";
-paths = (
-{
-closed = 1;
-nodes = (
-"156.66 0 LINE",
-"156.66 475 LINE",
-"76.66 475 LINE",
-"76.66 0 LINE"
-);
-}
-);
-width = 238;
-}
-);
-note = _part.i;
-},
-{
-glyphname = _part.n;
-lastChange = "2019-09-04 12:41:08 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{411.58, 63.42}";
-type = Stem;
-},
-{
-place = "{426.08, 79.92}";
-type = Stem;
-}
-);
-layerId = "7AC970EF-486C-4FB8-91F6-C99015BB6A18";
-paths = (
-{
-closed = 1;
-nodes = (
-"506 0 LINE",
-"506 373.66 LINE",
-"402.33 475 LINE",
-"228.66 475 LINE",
-"140 377.33 LINE",
-"140 293.66 LINE",
-"256.33 411.66 LINE",
-"377.66 411.5 LINE",
-"426.16 360.33 LINE",
-"426 0 LINE"
-);
-}
-);
-width = 583;
-}
-);
-note = _part.n;
-},
-{
 glyphname = uniE0FF;
 layers = (
 {
@@ -39222,8 +39048,8 @@ kerning = {
 "@MMK_R_C" = -7;
 "@MMK_R_S" = -22;
 "@MMK_R_T" = -77;
-"@MMK_R_V" = -48;
-"@MMK_R_W" = -22;
+"@MMK_R_V" = -65;
+"@MMK_R_W" = -32;
 "@MMK_R_X" = 28;
 "@MMK_R_Y" = -70;
 "@MMK_R_Z" = -11;
