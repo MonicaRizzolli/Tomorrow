@@ -1,1 +1,2 @@
-fontbakery
+git+git://github.com/googlefonts/fontbakery
+fontmake
