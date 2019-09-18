@@ -4,10 +4,16 @@ DisplayStrings = (
 "/lozenge",
 "/kip"
 );
-copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+customParameters = (
+{
+name = vendorID;
+value = JUST;
+}
+);
 date = "2016-03-09 15:11:54 +0000";
-designer = "Tony de Marco";
-designerURL = "http://www.tonydemarco.com.br";
+designer = "Tony de Marco, Monica Rizzolli";
+designerURL = "http://contrast.parts";
 familyName = Tomorrow;
 featurePrefixes = (
 {

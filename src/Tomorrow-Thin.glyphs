@@ -5,7 +5,7 @@ DisplayStrings = (
 "/Eng",
 "/Aogonek/aogonek/uogonek"
 );
-copyright = "Copyright 2019 Tomorrow Authors (https://github.com/googlefonts/Tomorrow).";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -634,11 +634,15 @@ uniE0FF,
 uniEFFD,
 uniF000
 );
+},
+{
+name = vendorID;
+value = JUST;
 }
 );
 date = "2019-09-10 19:03:13 +0000";
-designer = "Tony de Marco";
-designerURL = "http://www.tonydemarco.com.br";
+designer = "Tony de Marco, Monica Rizzolli";
+designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
 familyName = Tomorrow;
 featurePrefixes = (
