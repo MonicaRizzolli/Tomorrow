@@ -641,9 +641,17 @@ uniF000
 {
 name = vendorID;
 value = JUST;
+},
+{
+name = license;
+value = OFL;
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2019-09-03 13:15:28 +0000";
+date = "2019-09-18 20:52:41 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -42819,6 +42827,6 @@ utilde = -6;
 manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 1;
+versionMajor = 2;
+versionMinor = 0;
 }
