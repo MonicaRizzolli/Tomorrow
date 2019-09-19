@@ -728,6 +728,7 @@ id = "456D8B29-1305-406A-A7FA-547C067BBBCD";
 verticalStems = (
 20
 );
+weightValue = 250;
 widthValue = 5;
 xHeight = 523;
 }
@@ -38550,8 +38551,13 @@ value = "Tomorrow-ThinItalic";
 {
 name = styleMapFamilyName;
 value = Thin;
+},
+{
+name = weightClass;
+value = 250;
 }
 );
+interpolationWeight = 250;
 instanceInterpolations = {
 "456D8B29-1305-406A-A7FA-547C067BBBCD" = 1;
 };
