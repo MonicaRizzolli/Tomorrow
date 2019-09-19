@@ -681,7 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Extra;
+custom = ExtraItalic;
 customParameters = (
 {
 name = typoAscender;
@@ -725,7 +725,7 @@ horizontalStems = (
 29
 );
 id = "4A657952-F232-4636-873B-F2B6F2CFB0B2";
-name = ExtraLight;
+name = ExtraLightItalic;
 verticalStems = (
 30
 );

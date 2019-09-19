@@ -41596,7 +41596,6 @@ instanceInterpolations = {
 "FE9AE829-1AF8-474A-9DD0-DE8BEF1E0601" = 1;
 };
 name = Regular;
-weightClass = Normal;
 }
 );
 kerning = {

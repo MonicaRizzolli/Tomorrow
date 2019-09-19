@@ -681,7 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = "Oblique Regular";
+custom = RegularItalic;
 customParameters = (
 {
 name = typoAscender;
@@ -39053,7 +39053,6 @@ instanceInterpolations = {
 };
 isItalic = 1;
 name = "Regular Italic";
-weightClass = Normal;
 }
 );
 kerning = {

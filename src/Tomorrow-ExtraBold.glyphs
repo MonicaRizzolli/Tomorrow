@@ -71,6 +71,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
+custom = Extra;
 descender = -200;
 guideLines = (
 {
@@ -96,6 +97,7 @@ horizontalStems = (
 119
 );
 id = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
+name = ExtraBold;
 userData = {
 GSOffsetHorizontal = 5;
 GSOffsetVertical = 0;
@@ -26450,8 +26452,9 @@ interpolationWeight = 240;
 instanceInterpolations = {
 "2BED5241-FEE2-452B-8B42-4A46EDD0955E" = 1;
 };
+isBold = 1;
 name = "Extra Bold";
-weightClass = UltraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {

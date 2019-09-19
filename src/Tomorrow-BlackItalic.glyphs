@@ -682,7 +682,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Ultra;
+custom = BlackItalic;
 customParameters = (
 {
 name = typoAscender;
@@ -725,12 +725,11 @@ descender = -200;
 horizontalStems = (
 125
 );
+iconName = Bold;
 id = "59338637-1E5C-47E2-9B1C-5C70074789A9";
-name = UltraBold;
 verticalStems = (
 330
 );
-weight = Bold;
 weightValue = 850;
 widthValue = 5;
 xHeight = 523;
@@ -39403,8 +39402,9 @@ value = 850;
 instanceInterpolations = {
 "59338637-1E5C-47E2-9B1C-5C70074789A9" = 1;
 };
+isItalic = 1;
 name = "Black Italic";
-weightClass = UltraBold;
+weightClass = Black;
 }
 );
 kerning = {

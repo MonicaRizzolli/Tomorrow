@@ -681,7 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Medium;
+custom = MediumItalic;
 customParameters = (
 {
 name = typoAscender;
