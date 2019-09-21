@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -644,11 +644,16 @@ value = JUST;
 },
 {
 name = license;
-value = OFL;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2019-09-18 21:02:45 +0000";
@@ -676,7 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Thin;
+custom = ThinItalic;
 customParameters = (
 {
 name = typoAscender;
@@ -723,6 +728,7 @@ id = "456D8B29-1305-406A-A7FA-547C067BBBCD";
 verticalStems = (
 20
 );
+weightValue = 250;
 widthValue = 5;
 xHeight = 523;
 }
@@ -38545,8 +38551,13 @@ value = "Tomorrow-ThinItalic";
 {
 name = styleMapFamilyName;
 value = Thin;
+},
+{
+name = weightClass;
+value = 250;
 }
 );
+interpolationWeight = 250;
 instanceInterpolations = {
 "456D8B29-1305-406A-A7FA-547C067BBBCD" = 1;
 };

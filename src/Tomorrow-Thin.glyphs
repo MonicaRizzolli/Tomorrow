@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "Á",
 "/Eng",
@@ -641,11 +641,16 @@ value = JUST;
 },
 {
 name = license;
-value = OFL;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2019-09-10 19:03:13 +0000";

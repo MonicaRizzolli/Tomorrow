@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -644,11 +644,16 @@ value = JUST;
 },
 {
 name = license;
-value = OFL;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2019-09-18 21:04:46 +0000";
@@ -676,6 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -719,6 +725,7 @@ horizontalStems = (
 47
 );
 id = "EE67F182-E529-43D3-8004-363E3BB4E65C";
+name = LightItalic;
 verticalStems = (
 51
 );

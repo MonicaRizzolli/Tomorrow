@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/dotbelowcomb"
 );
@@ -645,11 +645,16 @@ value = JUST;
 },
 {
 name = license;
-value = OFL;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2019-09-18 21:09:36 +0000";
@@ -677,7 +682,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Ultra;
+custom = BlackItalic;
 customParameters = (
 {
 name = typoAscender;
@@ -720,12 +725,11 @@ descender = -200;
 horizontalStems = (
 125
 );
+iconName = Bold;
 id = "59338637-1E5C-47E2-9B1C-5C70074789A9";
-name = UltraBold;
 verticalStems = (
 330
 );
-weight = Bold;
 weightValue = 850;
 widthValue = 5;
 xHeight = 523;
@@ -39398,8 +39402,9 @@ value = 850;
 instanceInterpolations = {
 "59338637-1E5C-47E2-9B1C-5C70074789A9" = 1;
 };
+isItalic = 1;
 name = "Black Italic";
-weightClass = UltraBold;
+weightClass = Black;
 }
 );
 kerning = {
