@@ -1,5 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1264";
+DisplayStrings = (
+"/uni20B9"
+);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -7522,7 +7525,7 @@ unicode = 0134;
 },
 {
 glyphname = K;
-lastChange = "2019-09-03 16:30:53 +0000";
+lastChange = "2019-09-30 12:14:54 +0000";
 layers = (
 {
 hints = (
@@ -7549,8 +7552,7 @@ nodes = (
 "402.6 422.33 LINE",
 "674 737 LINE",
 "526.62 737 LINE",
-"229.62 398.25 LINE",
-"205.4 398.25 LINE",
+"205 369 LINE",
 "205.4 737 LINE",
 "80 737 LINE",
 "80 0 LINE"
@@ -7567,7 +7569,7 @@ unicode = 004B;
 },
 {
 glyphname = uni0136;
-lastChange = "2019-09-03 16:30:53 +0000";
+lastChange = "2019-09-30 12:15:05 +0000";
 layers = (
 {
 hints = (
@@ -7586,6 +7588,15 @@ paths = (
 {
 closed = 1;
 nodes = (
+"324.5 -239.75 LINE",
+"415.87 -57.25 LINE",
+"298.12 -57.25 LINE",
+"257.5 -239.75 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "205.4 0 LINE",
 "205.4 193.68 LINE",
 "315.65 321.52 LINE",
@@ -7594,20 +7605,10 @@ nodes = (
 "402.6 422.33 LINE",
 "674 737 LINE",
 "526.62 737 LINE",
-"229.62 398.25 LINE",
-"205.4 398.25 LINE",
+"205 369 LINE",
 "205.4 737 LINE",
 "80 737 LINE",
 "80 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"324.5 -239.75 LINE",
-"415.87 -57.25 LINE",
-"298.12 -57.25 LINE",
-"257.5 -239.75 LINE"
 );
 }
 );
@@ -36449,7 +36450,7 @@ unicode = 20BD;
 },
 {
 glyphname = uni20B9;
-lastChange = "2019-09-03 16:30:53 +0000";
+lastChange = "2019-09-30 18:39:14 +0000";
 layers = (
 {
 hints = (
@@ -36486,8 +36487,7 @@ nodes = (
 "572.5 465 LINE",
 "572.5 564 LINE",
 "461.62 564 LINE",
-"461.62 625.87 LINE",
-"449.51 638 LINE",
+"462 638 LINE",
 "572.5 638 LINE",
 "572.5 737 LINE",
 "80 737 LINE",

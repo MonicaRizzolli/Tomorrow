@@ -1,9 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1264";
 DisplayStrings = (
-"Á",
-"/Eng",
-"/Aogonek/aogonek/uogonek"
+Kk,
+K
 );
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
@@ -7467,7 +7466,7 @@ unicode = 0134;
 },
 {
 glyphname = K;
-lastChange = "2019-09-03 16:17:47 +0000";
+lastChange = "2019-09-30 12:09:41 +0000";
 layers = (
 {
 hints = (

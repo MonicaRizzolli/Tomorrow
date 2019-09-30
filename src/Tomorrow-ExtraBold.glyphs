@@ -1,8 +1,7 @@
 {
-.appVersion = "1230";
+.appVersion = "1264";
 DisplayStrings = (
-"/lozenge",
-"/kip"
+"/kgreenlandic"
 );
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
@@ -14085,7 +14084,7 @@ unicode = 0135;
 },
 {
 glyphname = k;
-lastChange = "2019-09-09 11:34:22 +0000";
+lastChange = "2019-09-30 12:45:03 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -14100,8 +14099,8 @@ nodes = (
 "716.9 0 LINE",
 "505.342 315.481 LINE",
 "710.9 522 LINE",
-"493.9 522 LINE",
-"308 341.437 LINE",
+"463.052 522 LINE",
+"308 371.437 LINE",
 "308 737 LINE",
 "44 737 LINE",
 "44 0 LINE"
@@ -14118,11 +14117,20 @@ unicode = 006B;
 },
 {
 glyphname = kcommaaccent;
-lastChange = "2019-09-09 11:34:22 +0000";
+lastChange = "2019-09-30 12:47:41 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
 paths = (
+{
+closed = 1;
+nodes = (
+"316.9 -234 LINE",
+"449.9 -52 LINE",
+"227.9 -52 LINE",
+"176.9 -234 LINE"
+);
+},
 {
 closed = 1;
 nodes = (
@@ -14133,20 +14141,11 @@ nodes = (
 "716.9 0 LINE",
 "505.342 315.481 LINE",
 "710.9 522 LINE",
-"493.9 522 LINE",
-"308 341.437 LINE",
+"463.052 522 LINE",
+"308 371.437 LINE",
 "308 737 LINE",
 "44 737 LINE",
 "44 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"316.9 -234 LINE",
-"449.9 -52 LINE",
-"227.9 -52 LINE",
-"176.9 -234 LINE"
 );
 }
 );
@@ -14161,7 +14160,7 @@ unicode = 0137;
 },
 {
 glyphname = kgreenlandic;
-lastChange = "2019-09-09 11:34:22 +0000";
+lastChange = "2019-09-30 12:47:57 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -14170,14 +14169,14 @@ paths = (
 closed = 1;
 nodes = (
 "308 0 LINE",
-"308 117.175 LINE",
-"351.229 160.707 LINE",
-"439 0 LINE",
-"716 0 LINE",
-"504.637 315.19 LINE",
-"711 523 LINE",
-"494 523 LINE",
-"308 341.45 LINE",
+"308 117.217 LINE",
+"351.185 160.604 LINE",
+"438.9 0 LINE",
+"716.9 0 LINE",
+"505.342 315.481 LINE",
+"710.9 522 LINE",
+"463.052 522 LINE",
+"308 371.437 LINE",
 "308 523 LINE",
 "44 523 LINE",
 "44 0 LINE"

@@ -1,5 +1,8 @@
 {
 .appVersion = "1264";
+DisplayStrings = (
+"H/uni0137 H"
+);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -33474,7 +33477,7 @@ unicode = 0135;
 },
 {
 glyphname = k;
-lastChange = "2019-09-24 19:39:11 +0000";
+lastChange = "2019-09-30 12:57:09 +0000";
 layers = (
 {
 hints = (
@@ -33494,14 +33497,14 @@ paths = (
 closed = 1;
 nodes = (
 "252 0 LINE",
-"277 139 LINE",
-"315 173 LINE",
+"279.302 154.783 LINE",
+"310.804 181.95 LINE",
 "396.1 0 LINE",
 "613.152 0 LINE",
-"460.134 280.906 LINE",
-"740.121 522 LINE",
-"494 522 LINE",
-"317 369 LINE",
+"449.081 301.197 LINE",
+"705.121 522 LINE",
+"459 522 LINE",
+"323.401 404.787 LINE",
 "382 737 LINE",
 "193 737 LINE",
 "63 0 LINE"
@@ -33517,7 +33520,7 @@ unicode = 006B;
 },
 {
 glyphname = uni0137;
-lastChange = "2019-09-24 19:39:11 +0000";
+lastChange = "2019-09-30 12:57:18 +0000";
 layers = (
 {
 hints = (
@@ -33554,27 +33557,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"252 0 LINE",
-"277 139 LINE",
-"315 173 LINE",
-"396.1 0 LINE",
-"613.152 0 LINE",
-"460.134 280.906 LINE",
-"740.121 522 LINE",
-"494 522 LINE",
-"317 369 LINE",
-"382 737 LINE",
-"193 737 LINE",
-"63 0 LINE"
+"273.183 -240 LINE",
+"419.183 -57 LINE",
+"229.183 -57 LINE",
+"150.183 -240 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"273.183 -240 LINE",
-"419.183 -57 LINE",
-"229.183 -57 LINE",
-"150.183 -240 LINE"
+"252 0 LINE",
+"279.302 154.783 LINE",
+"310.804 181.95 LINE",
+"396.1 0 LINE",
+"613.152 0 LINE",
+"449.081 301.197 LINE",
+"705.121 522 LINE",
+"459 522 LINE",
+"323.401 404.787 LINE",
+"382 737 LINE",
+"193 737 LINE",
+"63 0 LINE"
 );
 }
 );
@@ -33587,7 +33590,7 @@ unicode = 0137;
 },
 {
 glyphname = kgreenlandic;
-lastChange = "2019-09-24 19:39:11 +0000";
+lastChange = "2019-09-30 12:57:28 +0000";
 layers = (
 {
 hints = (
@@ -33607,14 +33610,14 @@ paths = (
 closed = 1;
 nodes = (
 "252 0 LINE",
-"277 139 LINE",
-"315 173 LINE",
+"279.302 154.783 LINE",
+"310.804 181.95 LINE",
 "396.1 0 LINE",
 "613.152 0 LINE",
-"460.134 280.906 LINE",
-"740.121 522 LINE",
-"494 522 LINE",
-"317 369 LINE",
+"449.081 301.197 LINE",
+"705.121 522 LINE",
+"459 522 LINE",
+"323.401 404.787 LINE",
 "344 522 LINE",
 "155 522 LINE",
 "63 0 LINE"

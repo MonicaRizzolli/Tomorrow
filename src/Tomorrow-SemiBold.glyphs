@@ -1,5 +1,10 @@
 {
-.appVersion = "1230";
+.appVersion = "1264";
+DisplayStrings = (
+"/quotesinglbase",
+"/minute",
+"%TY/uni20BA NK"
+);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -720,6 +725,11 @@ value = 50;
 }
 );
 descender = -200;
+guideLines = (
+{
+position = "{527, 760.87}";
+}
+);
 horizontalStems = (
 105
 );
@@ -3024,9 +3034,43 @@ unicode = 00C3;
 },
 {
 glyphname = AE;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-28 19:37:45 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"171 0 LINE",
+"216 163 LINE",
+"495 163 LINE",
+"541 0 LINE",
+"981 0 LINE",
+"981 139 LINE",
+"663 139 LINE",
+"609 315 LINE",
+"946 315 LINE",
+"946 449 LINE",
+"568 449 LINE",
+"521 598 LINE",
+"981 598 LINE",
+"981 737 LINE",
+"233 737 LINE",
+"5 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"341 607 LINE",
+"371 607 LINE",
+"459 290 LINE",
+"252 290 LINE"
+);
+}
+);
+};
 hints = (
 {
 horizontal = 1;
@@ -3058,31 +3102,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"170.5 0 LINE",
-"216.19 163.12 LINE",
-"495.05 163.12 LINE",
-"540.75 0 LINE",
-"981.37 0 LINE",
-"981.37 138.69 LINE",
-"663.37 138.69 LINE",
-"608.72 315.44 LINE",
-"945.87 315.44 LINE",
-"945.87 448.62 LINE",
-"567.54 448.62 LINE",
-"521.25 598.31 LINE",
-"981.37 598.31 LINE",
-"981.37 737 LINE",
-"232.87 737 LINE",
+"171 0 LINE",
+"216 163 LINE",
+"495 163 LINE",
+"541 0 LINE",
+"981 0 LINE",
+"981 133 LINE",
+"665 133 LINE",
+"608 318 LINE",
+"946 318 LINE",
+"946 446 LINE",
+"568 446 LINE",
+"519 604 LINE",
+"981 604 LINE",
+"981 737 LINE",
+"233 737 LINE",
 "5 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"340.56 607.12 LINE",
-"370.69 607.12 LINE",
-"459.48 290.12 LINE",
-"251.76 290.12 LINE"
+"341 607 LINE",
+"371 607 LINE",
+"459 290 LINE",
+"252 290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"471 604 LINE",
+"474 589 LINE",
+"469 604 LINE"
 );
 }
 );
@@ -3096,7 +3148,7 @@ unicode = 00C6;
 },
 {
 glyphname = AEacute;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-28 19:37:58 +0000";
 layers = (
 {
 hints = (
@@ -3135,27 +3187,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"170.5 0 LINE",
-"216.19 163.12 LINE",
-"495.05 163.12 LINE",
-"540.75 0 LINE",
-"981.37 0 LINE",
-"981.37 138.69 LINE",
-"663.37 138.69 LINE",
-"608.72 315.44 LINE",
-"945.87 315.44 LINE",
-"945.87 448.62 LINE",
-"567.54 448.62 LINE",
-"521.25 598.31 LINE",
-"981.37 598.31 LINE",
-"981.37 737 LINE",
-"232.87 737 LINE",
-"5 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "340.56 607.12 LINE",
 "370.69 607.12 LINE",
 "459.48 290.12 LINE",
@@ -3169,6 +3200,27 @@ nodes = (
 "560.62 950.12 LINE",
 "400.31 950.12 LINE",
 "297.25 794.62 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 0 LINE",
+"216 163 LINE",
+"495 163 LINE",
+"541 0 LINE",
+"981 0 LINE",
+"981 133 LINE",
+"665 133 LINE",
+"608 318 LINE",
+"946 318 LINE",
+"946 446 LINE",
+"568 446 LINE",
+"519 604 LINE",
+"981 604 LINE",
+"981 737 LINE",
+"233 737 LINE",
+"5 0 LINE"
 );
 }
 );
@@ -7595,7 +7647,7 @@ unicode = 0134;
 },
 {
 glyphname = K;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 12:17:11 +0000";
 layers = (
 {
 hints = (
@@ -7622,8 +7674,7 @@ nodes = (
 "417.43 419.07 LINE",
 "683.1 737 LINE",
 "505.91 737 LINE",
-"239.41 416.12 LINE",
-"231.2 415.19 LINE",
+"231 406 LINE",
 "231.2 737 LINE",
 "75 737 LINE",
 "75 0 LINE"
@@ -7640,7 +7691,7 @@ unicode = 004B;
 },
 {
 glyphname = uni0136;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 12:17:17 +0000";
 layers = (
 {
 hints = (
@@ -7659,6 +7710,15 @@ paths = (
 {
 closed = 1;
 nodes = (
+"327.89 -239.88 LINE",
+"430.57 -57.13 LINE",
+"285.2 -57.13 LINE",
+"241.39 -239.88 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "231.2 0 LINE",
 "231.2 196.2 LINE",
 "321.4 304.15 LINE",
@@ -7667,20 +7727,10 @@ nodes = (
 "417.43 419.07 LINE",
 "683.1 737 LINE",
 "505.91 737 LINE",
-"239.41 416.12 LINE",
-"231.2 415.19 LINE",
+"231 406 LINE",
 "231.2 737 LINE",
 "75 737 LINE",
 "75 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"327.89 -239.88 LINE",
-"430.57 -57.13 LINE",
-"285.2 -57.13 LINE",
-"241.39 -239.88 LINE"
 );
 }
 );
@@ -8006,7 +8056,7 @@ unicode = 013F;
 },
 {
 glyphname = uni01C8;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:23:29 +0000";
 layers = (
 {
 hints = (
@@ -8050,9 +8100,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"734.37 -187 LINE",
+"734.75 -187 LINE",
 "838 -89 LINE",
-"837.5 522.25 LINE",
+"838 522.25 LINE",
 "684 522.25 LINE",
 "684 -42.56 LINE",
 "649.62 -77.5 LINE",
@@ -8063,10 +8113,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"837.25 579.87 LINE",
-"837.25 712.56 LINE",
-"683.25 712.56 LINE",
-"683.25 579.87 LINE"
+"838 579.87 LINE",
+"838 712.56 LINE",
+"684 712.56 LINE",
+"684 579.87 LINE"
 );
 }
 );
@@ -8546,7 +8596,7 @@ unicode = 014A;
 },
 {
 glyphname = uni01CB;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:23:44 +0000";
 layers = (
 {
 hints = (
@@ -8599,9 +8649,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"899.56 -187 LINE",
+"899.94 -187 LINE",
 "1003.19 -89 LINE",
-"1002.69 522.25 LINE",
+"1003.19 522.25 LINE",
 "849.19 522.25 LINE",
 "849.19 -42.56 LINE",
 "814.81 -77.5 LINE",
@@ -8612,10 +8662,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"1002.44 579.87 LINE",
-"1002.44 712.56 LINE",
-"848.44 712.56 LINE",
-"848.44 579.87 LINE"
+"1003.19 579.87 LINE",
+"1003.19 712.56 LINE",
+"849.19 712.56 LINE",
+"849.19 579.87 LINE"
 );
 }
 );
@@ -11327,7 +11377,7 @@ unicode = 00D5;
 },
 {
 glyphname = uni022C;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-28 19:20:34 +0000";
 layers = (
 {
 hints = (
@@ -11378,57 +11428,57 @@ paths = (
 {
 closed = 1;
 nodes = (
-"562.44 0 LINE",
-"673.5 111.06 LINE",
-"673.5 625.94 LINE",
-"562.44 737 LINE",
-"166.06 737 LINE",
-"55 625.94 LINE",
-"55 111.06 LINE",
-"166.06 0 LINE"
+"562 0 LINE",
+"673 111 LINE",
+"673 626 LINE",
+"562 737 LINE",
+"166 737 LINE",
+"55 626 LINE",
+"55 111 LINE",
+"166 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"211.31 165.5 LINE",
-"211.06 571.5 LINE",
-"251.19 610.87 LINE",
-"477.25 611.06 LINE",
-"517.69 571.5 LINE",
-"517.87 165.56 LINE",
-"478.31 126.12 LINE",
-"251.25 125.94 LINE"
+"211 166 LINE",
+"211 572 LINE",
+"251 611 LINE",
+"477 611 LINE",
+"517 572 LINE",
+"518 166 LINE",
+"478 126 LINE",
+"251 126 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"509.62 794.62 LINE",
-"576.62 864.12 LINE",
-"577.62 939.37 LINE",
-"479.44 939.37 LINE",
-"479.44 912.69 LINE",
-"454.87 881.56 LINE",
-"429.44 881.56 LINE",
-"371.31 944.06 LINE",
-"225.62 944.06 LINE",
-"159.12 876 LINE",
-"157.62 799.75 LINE",
-"255.81 799.75 LINE",
-"255.81 825.44 LINE",
-"280.37 859.12 LINE",
-"305.81 859.12 LINE",
-"363.94 794.62 LINE"
+"506 795 LINE",
+"573 864 LINE",
+"574 939 LINE",
+"476 939 LINE",
+"476 913 LINE",
+"451 882 LINE",
+"426 882 LINE",
+"368 944 LINE",
+"222 944 LINE",
+"155 876 LINE",
+"154 800 LINE",
+"252 800 LINE",
+"252 825 LINE",
+"277 859 LINE",
+"302 859 LINE",
+"360 795 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"557.75 984.19 LINE",
-"557.75 1088.25 LINE",
-"134.75 1088.25 LINE",
-"134.75 984.19 LINE"
+"576 984 LINE",
+"576 1088 LINE",
+"153 1088 LINE",
+"153 984 LINE"
 );
 }
 );
@@ -11637,7 +11687,7 @@ unicode = 00DE;
 },
 {
 glyphname = Q;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-25 14:03:29 +0000";
 layers = (
 {
 hints = (
@@ -11669,8 +11719,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"430.69 -88.56 LINE",
-"430.69 0 LINE",
+"426 -89 LINE",
+"426 0 LINE",
 "562.44 0 LINE",
 "673.5 111.06 LINE",
 "673.5 625.94 LINE",
@@ -11679,8 +11729,8 @@ nodes = (
 "55 625.94 LINE",
 "55 111.06 LINE",
 "166.06 0 LINE",
-"307.81 0 LINE",
-"307.81 -88.56 LINE"
+"303 0 LINE",
+"303 -89 LINE"
 );
 },
 {
@@ -11693,10 +11743,10 @@ nodes = (
 "517.69 571.5 LINE",
 "517.87 165.56 LINE",
 "478.31 126.12 LINE",
-"428.69 126.08 LINE",
-"428.69 214.5 LINE",
-"309.81 214.5 LINE",
-"309.81 125.98 LINE",
+"424 126 LINE",
+"424 215 LINE",
+"305 215 LINE",
+"305 126 LINE",
 "251.25 125.94 LINE"
 );
 }
@@ -12943,7 +12993,7 @@ unicode = 0164;
 },
 {
 glyphname = uni0162;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-28 19:26:30 +0000";
 layers = (
 {
 hints = (
@@ -12963,7 +13013,6 @@ paths = (
 closed = 1;
 nodes = (
 "327.08 -125.19 LINE",
-"371.33 0 LINE",
 "371.45 0 LINE",
 "371.45 603.81 LINE",
 "576.75 603.81 LINE",
@@ -22212,7 +22261,7 @@ unicode = 0121;
 },
 {
 glyphname = h;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 11:08:44 +0000";
 layers = (
 {
 hints = (
@@ -22236,16 +22285,16 @@ paths = (
 closed = 1;
 nodes = (
 "224 0 LINE",
-"224 331.56 LINE",
-"323.4 422.95 LINE",
-"403.15 422.81 LINE",
-"441.24 383.9 LINE",
-"441.1 0 LINE",
-"595.1 0 LINE",
-"595.1 411.4 LINE",
-"484 522.5 LINE",
-"300.3 522.5 LINE",
-"224 453.98 LINE",
+"224 332 LINE",
+"323 423 LINE",
+"403 423 LINE",
+"441 384 LINE",
+"441 0 LINE",
+"595 0 LINE",
+"595 411 LINE",
+"484 523 LINE",
+"300 523 LINE",
+"224 454 LINE",
 "224 737 LINE",
 "70 737 LINE",
 "70 0 LINE"
@@ -22389,7 +22438,7 @@ unicode = 0125;
 },
 {
 glyphname = i;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:17:07 +0000";
 layers = (
 {
 hints = (
@@ -22417,10 +22466,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"224 579.62 LINE",
-"224 712.31 LINE",
-"70 712.31 LINE",
-"70 579.62 LINE"
+"225.55 579.62 LINE",
+"225.55 712.31 LINE",
+"71.55 712.31 LINE",
+"71.55 579.62 LINE"
 );
 }
 );
@@ -23175,7 +23224,7 @@ unicode = 0129;
 },
 {
 glyphname = j;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:21:12 +0000";
 layers = (
 {
 hints = (
@@ -23199,9 +23248,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"132.62 -187 LINE",
+"133 -187 LINE",
 "236.25 -89 LINE",
-"235.75 522.25 LINE",
+"236.25 522.25 LINE",
 "82.25 522.25 LINE",
 "82.25 -42.56 LINE",
 "47.87 -77.5 LINE",
@@ -23212,10 +23261,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"235.5 579.87 LINE",
-"235.5 712.56 LINE",
-"81.5 712.56 LINE",
-"81.5 579.87 LINE"
+"236.25 579.87 LINE",
+"236.25 712.56 LINE",
+"82.25 712.56 LINE",
+"82.25 579.87 LINE"
 );
 }
 );
@@ -23229,7 +23278,7 @@ unicode = 006A;
 },
 {
 glyphname = uni0237;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:21:39 +0000";
 layers = (
 {
 hints = (
@@ -23248,9 +23297,9 @@ paths = (
 {
 closed = 1;
 nodes = (
-"132.62 -187 LINE",
+"133 -187 LINE",
 "236.25 -89 LINE",
-"235.75 522.25 LINE",
+"236.25 522.25 LINE",
 "82.25 522.25 LINE",
 "82.25 -42.56 LINE",
 "47.87 -77.5 LINE",
@@ -23268,7 +23317,7 @@ unicode = 0237;
 },
 {
 glyphname = jcircumflex;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:21:48 +0000";
 layers = (
 {
 hints = (
@@ -23292,19 +23341,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"132.62 -187 LINE",
-"236.25 -89 LINE",
-"235.75 522.25 LINE",
-"82.25 522.25 LINE",
-"82.25 -42.56 LINE",
-"47.87 -77.5 LINE",
-"-27.5 -77.5 LINE",
-"-27.5 -187 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
 "89.44 579.87 LINE",
 "158.5 649.94 LINE",
 "227.06 579.87 LINE",
@@ -23312,6 +23348,19 @@ nodes = (
 "239.87 727.37 LINE",
 "77.12 727.37 LINE",
 "-31.63 579.87 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 -187 LINE",
+"236.25 -89 LINE",
+"236.25 522.25 LINE",
+"82.25 522.25 LINE",
+"82.25 -42.56 LINE",
+"47.87 -77.5 LINE",
+"-27.5 -77.5 LINE",
+"-27.5 -187 LINE"
 );
 }
 );
@@ -23324,7 +23373,7 @@ unicode = 0135;
 },
 {
 glyphname = k;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 11:26:05 +0000";
 layers = (
 {
 hints = (
@@ -23351,8 +23400,7 @@ nodes = (
 "364.85 303.27 LINE",
 "581.05 522.25 LINE",
 "389.8 522.25 LINE",
-"234.17 365.12 LINE",
-"224 365.12 LINE",
+"224 355 LINE",
 "224 737 LINE",
 "70 737 LINE",
 "70 0 LINE"
@@ -23679,7 +23727,7 @@ unicode = 0140;
 },
 {
 glyphname = uni01C9;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:23:57 +0000";
 layers = (
 {
 hints = (
@@ -23707,9 +23755,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"447.86 -187 LINE",
-"551.48 -89 LINE",
-"550.98 522.25 LINE",
+"224 0 LINE",
+"224 737 LINE",
+"70 737 LINE",
+"70 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"448.24 -187 LINE",
+"551.49 -89 LINE",
+"551.49 522.25 LINE",
 "397.49 522.25 LINE",
 "397.49 -42.56 LINE",
 "363.11 -77.5 LINE",
@@ -23720,19 +23777,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"224 0 LINE",
-"224 737 LINE",
-"70 737 LINE",
-"70 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"550.73 579.87 LINE",
-"550.73 712.56 LINE",
-"396.74 712.56 LINE",
-"396.74 579.87 LINE"
+"551.49 579.87 LINE",
+"551.49 712.56 LINE",
+"397.49 712.56 LINE",
+"397.49 579.87 LINE"
 );
 }
 );
@@ -24154,7 +24202,7 @@ unicode = 014B;
 },
 {
 glyphname = uni01CC;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:24:08 +0000";
 layers = (
 {
 hints = (
@@ -24210,9 +24258,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"796.56 -187 LINE",
+"796.94 -187 LINE",
 "900.19 -89 LINE",
-"899.69 522.25 LINE",
+"900.19 522.25 LINE",
 "746.19 522.25 LINE",
 "746.19 -42.56 LINE",
 "711.81 -77.5 LINE",
@@ -24223,10 +24271,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"899.44 579.87 LINE",
-"899.44 712.56 LINE",
-"745.44 712.56 LINE",
-"745.44 579.87 LINE"
+"900.19 579.87 LINE",
+"900.19 712.56 LINE",
+"746.19 712.56 LINE",
+"746.19 579.87 LINE"
 );
 }
 );
@@ -25335,7 +25383,7 @@ unicode = 00F6;
 },
 {
 glyphname = uni022B;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 13:48:18 +0000";
 layers = (
 {
 hints = (
@@ -26690,7 +26738,7 @@ unicode = 01EB;
 },
 {
 glyphname = oslash;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 14:35:06 +0000";
 layers = (
 {
 hints = (
@@ -27435,7 +27483,7 @@ unicode = 0155;
 },
 {
 glyphname = rcaron;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 14:10:03 +0000";
 layers = (
 {
 hints = (
@@ -27758,7 +27806,7 @@ unicode = 0073;
 },
 {
 glyphname = sacute;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 14:15:47 +0000";
 layers = (
 {
 hints = (
@@ -27838,7 +27886,7 @@ unicode = 015B;
 },
 {
 glyphname = scaron;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 14:12:34 +0000";
 layers = (
 {
 hints = (
@@ -32250,7 +32298,7 @@ unicode = 0034;
 },
 {
 glyphname = five;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 16:13:59 +0000";
 layers = (
 {
 hints = (
@@ -32287,12 +32335,12 @@ nodes = (
 "611.25 104.56 LINE",
 "611.25 364.81 LINE",
 "503.69 469.37 LINE",
-"245.12 469.37 LINE",
-"245.12 605.31 LINE",
+"248.12 469.37 LINE",
+"248.12 605.31 LINE",
 "573.37 605.31 LINE",
 "573.37 737 LINE",
-"88.94 737 LINE",
-"88.94 348.87 LINE",
+"91.94 737 LINE",
+"91.94 348.87 LINE",
 "415.56 349 LINE",
 "454.94 308.87 LINE",
 "455.12 165.56 LINE",
@@ -33335,7 +33383,7 @@ unicode = 00B3;
 },
 {
 glyphname = uni2074;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 16:37:55 +0000";
 layers = (
 {
 hints = (
@@ -33370,8 +33418,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"187.12 547.62 LINE",
-"210.56 596.25 LINE",
+"210.56 582.25 LINE",
 "210.56 498.12 LINE",
 "150.12 498.12 LINE"
 );
@@ -33969,7 +34016,7 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 17:11:33 +0000";
 layers = (
 {
 hints = (
@@ -35639,7 +35686,7 @@ unicode = 20B5;
 },
 {
 glyphname = cent;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 19:17:34 +0000";
 layers = (
 {
 hints = (
@@ -35663,6 +35710,24 @@ type = Stem;
 },
 {
 place = "{240.25, 132}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{0, 115.44}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{423.53, 98.72}";
+type = Stem;
+},
+{
+place = "{57.5, 153.99}";
+type = Stem;
+},
+{
+place = "{394.03, 153.97}";
 type = Stem;
 }
 );
@@ -36430,7 +36495,7 @@ unicode = 20A4;
 },
 {
 glyphname = uni20BA;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 19:40:58 +0000";
 layers = (
 {
 hints = (
@@ -36847,7 +36912,7 @@ unicode = 20BD;
 },
 {
 glyphname = uni20B9;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 18:32:30 +0000";
 layers = (
 {
 hints = (
@@ -36880,24 +36945,21 @@ nodes = (
 "276.07 260.81 LINE",
 "391.31 260.81 LINE",
 "502.31 371.87 LINE",
-"502.31 454.5 LINE",
-"596.25 454.5 LINE",
-"596.25 564.5 LINE",
-"502.31 564.5 LINE",
-"502.31 625.94 LINE",
-"501.25 627 LINE",
+"502.31 452.5 LINE",
+"596.25 452.5 LINE",
+"596.25 562.5 LINE",
+"502.31 562.5 LINE",
+"502.31 627 LINE",
 "596.25 627 LINE",
 "596.25 737 LINE",
 "75 737 LINE",
 "75 627 LINE",
-"256.5 627.09 LINE",
-"256.5 627 LINE",
 "309.25 627 LINE",
 "348.5 587.5 LINE",
-"348.52 564.5 LINE",
-"75 564.5 LINE",
-"75 454.5 LINE",
-"348.65 454.5 LINE",
+"348.52 562.5 LINE",
+"75 562.5 LINE",
+"75 452.5 LINE",
+"348.65 452.5 LINE",
 "348.69 426.37 LINE",
 "309.12 386.94 LINE",
 "75 386.81 LINE",
@@ -37047,9 +37109,30 @@ unicode = 20A9;
 },
 {
 glyphname = yen;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 18:59:16 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"415.44 0 LINE",
+"415.44 264.31 LINE",
+"452.44 296.31 LINE",
+"667.12 737 LINE",
+"488.12 737 LINE",
+"352.62 406.37 LINE",
+"322.5 406.37 LINE",
+"187 737 LINE",
+"8 737 LINE",
+"222.69 296.31 LINE",
+"259.69 264.31 LINE",
+"259.69 0 LINE"
+);
+}
+);
+};
 hints = (
 {
 horizontal = 1;
@@ -37071,32 +37154,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"421.44 0 LINE",
-"421.44 148.81 LINE",
-"615.94 148.81 LINE",
-"615.94 258.81 LINE",
-"421.44 258.81 LINE",
-"457.94 290.81 LINE",
-"466.24 308.31 LINE",
-"615.94 308.31 LINE",
-"615.94 418.31 LINE",
-"518.43 418.31 LINE",
-"669.62 737 LINE",
+"415.44 0 LINE",
+"415.44 148.81 LINE",
+"616.032 148.81 LINE",
+"616.032 258.81 LINE",
+"415.44 258.81 LINE",
+"458.445 308.31 LINE",
+"615.655 308.31 LINE",
+"615.655 418.31 LINE",
+"512.246 418.31 LINE",
+"667.12 737 LINE",
 "488.12 737 LINE",
 "352.62 406.37 LINE",
 "322.5 406.37 LINE",
 "187 737 LINE",
-"5 737 LINE",
-"156.19 418.31 LINE",
-"59.19 418.31 LINE",
-"59.19 308.31 LINE",
-"208.38 308.31 LINE",
-"216.69 290.81 LINE",
-"253.19 258.81 LINE",
-"59.19 258.81 LINE",
-"59.19 148.81 LINE",
-"253.19 148.81 LINE",
-"253.19 0 LINE"
+"8 737 LINE",
+"163.007 418.31 LINE",
+"59.465 418.31 LINE",
+"59.465 308.31 LINE",
+"216.646 308.31 LINE",
+"259.69 258.81 LINE",
+"59.088 258.81 LINE",
+"59.088 148.81 LINE",
+"259.69 148.81 LINE",
+"259.69 0 LINE"
 );
 }
 );
@@ -38879,7 +38960,7 @@ unicode = 2122;
 },
 {
 glyphname = degree;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 17:53:02 +0000";
 layers = (
 {
 hints = (
@@ -38916,10 +38997,7 @@ nodes = (
 closed = 1;
 nodes = (
 "125.44 631.94 LINE",
-"125.44 631.94 LINE",
 "256.88 631.94 LINE",
-"256.88 631.94 LINE",
-"256.88 500.5 LINE",
 "256.88 500.5 LINE",
 "125.44 500.5 LINE"
 );
@@ -38933,7 +39011,7 @@ unicode = 00B0;
 },
 {
 glyphname = minute;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-30 17:49:08 +0000";
 layers = (
 {
 hints = (
@@ -41136,7 +41214,7 @@ note = uni03060300;
 },
 {
 glyphname = uni03060309;
-lastChange = "2019-09-03 20:00:58 +0000";
+lastChange = "2019-09-28 14:48:57 +0000";
 layers = (
 {
 hints = (
@@ -41554,111 +41632,6 @@ width = 0;
 note = uni03020303;
 },
 {
-glyphname = _part.H;
-lastChange = "2019-09-03 20:00:58 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{0, 670}";
-type = Stem;
-},
-{
-place = "{121.5, 142}";
-type = Stem;
-}
-);
-layerId = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-paths = (
-{
-closed = 1;
-nodes = (
-"263.5 0 LINE",
-"263.5 670 LINE",
-"121.5 670 LINE",
-"121.5 0 LINE"
-);
-}
-);
-width = 385;
-}
-);
-note = _part.H;
-},
-{
-glyphname = _part.i;
-lastChange = "2019-09-03 20:00:58 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{0, 475}";
-type = Stem;
-},
-{
-place = "{67, 140}";
-type = Stem;
-}
-);
-layerId = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-paths = (
-{
-closed = 1;
-nodes = (
-"207 0 LINE",
-"207 475 LINE",
-"67 475 LINE",
-"67 0 LINE"
-);
-}
-);
-width = 274;
-}
-);
-note = _part.i;
-},
-{
-glyphname = _part.n;
-lastChange = "2019-09-03 20:00:58 +0000";
-layers = (
-{
-hints = (
-{
-horizontal = 1;
-place = "{384.44, 90.56}";
-type = Stem;
-},
-{
-place = "{360.56, 139.94}";
-type = Stem;
-}
-);
-layerId = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-paths = (
-{
-closed = 1;
-nodes = (
-"500.5 0 LINE",
-"500.5 374 LINE",
-"399.5 475 LINE",
-"232.5 475 LINE",
-"129.5 382.5 LINE",
-"129.5 270.5 LINE",
-"253.5 384.5 LINE",
-"326 384.37 LINE",
-"360.62 349 LINE",
-"360.5 0 LINE"
-);
-}
-);
-width = 563;
-}
-);
-note = _part.n;
-},
-{
 glyphname = uniE0FF;
 layers = (
 {
@@ -41692,6 +41665,7 @@ note = uniF000;
 unicode = F000;
 }
 );
+gridLength = 0;
 instances = (
 {
 customParameters = (
