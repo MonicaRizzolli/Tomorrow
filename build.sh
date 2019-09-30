@@ -1,9 +1,15 @@
-INSTANCES=$(ls src/*.glyphs)
-
-for i in $INSTANCES
+for src in src/*.glyphs
 do
-  fontmake -g $i -o ttf --output-dir output/
+  fontmake -g $src -o ttf --output-dir output/
 done
+
+for font in output/*.ttf
+do
+  gftools fix-nonhinting $font $font
+done
+
+# Cleanup gftools mess:
+rm output/*-backup-fonttools-prep-gasp.ttf
 
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
