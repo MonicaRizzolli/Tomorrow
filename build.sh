@@ -6,6 +6,7 @@ done
 for font in output/*.ttf
 do
   gftools fix-nonhinting $font $font
+  gftools fix-dsig $font --autofix
 done
 
 # Cleanup gftools mess:
