@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -681,7 +681,6 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = Demi;
 customParameters = (
 {
 name = typoAscender;
@@ -738,12 +737,12 @@ position = "{527, 760.87}";
 horizontalStems = (
 105
 );
+iconName = Bold;
 id = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-name = DemiBold;
 verticalStems = (
 152
 );
-weight = Bold;
+weight = SemiBold;
 weightValue = 600;
 widthValue = 5;
 xHeight = 523;
@@ -55655,7 +55654,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = "Semi Bold";
 name = "Semi Bold Italic";
-weightClass = DemiBold;
+weightClass = SemiBold;
 }
 );
 kerning = {

@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/uni0136"
 );
@@ -684,7 +684,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
-custom = RegularItalic;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -39042,18 +39042,18 @@ instances = (
 customParameters = (
 {
 name = postscriptFullName;
-value = "Tomorrow Regular Italic";
+value = "Tomorrow Italic";
 },
 {
 name = postscriptFontName;
-value = "Tomorrow-RegularItalic";
+value = "Tomorrow-Italic";
 }
 );
 instanceInterpolations = {
 "7AC970EF-486C-4FB8-91F6-C99015BB6A18" = 1;
 };
 isItalic = 1;
-name = "Regular Italic";
+name = Italic;
 }
 );
 kerning = {
