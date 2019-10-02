@@ -815,6 +815,7 @@ note = .notdef;
 },
 {
 glyphname = CR;
+lastChange = "2019-10-02 06:04:54 +0000";
 layers = (
 {
 layerId = "43E2286E-6EE6-4840-9A6A-FE0C69444F4F";
@@ -822,6 +823,7 @@ width = 600;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;

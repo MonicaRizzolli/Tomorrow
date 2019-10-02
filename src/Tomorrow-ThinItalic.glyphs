@@ -812,6 +812,7 @@ width = 600;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;
