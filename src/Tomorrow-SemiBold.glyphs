@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/quotesinglbase",
 "/minute",
@@ -41678,6 +41678,7 @@ name = postscriptFontName;
 value = "Tomorrow-SemiBold";
 }
 );
+interpolationWeight = 600;
 instanceInterpolations = {
 "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63" = 1;
 };

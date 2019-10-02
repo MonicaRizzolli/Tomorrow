@@ -681,6 +681,7 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 737;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -739,6 +740,7 @@ horizontalStems = (
 );
 iconName = Bold;
 id = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
+name = SemiBoldItalic;
 verticalStems = (
 152
 );
@@ -55648,6 +55650,7 @@ name = postscriptFontName;
 value = "Tomorrow-SemiBoldItalic";
 }
 );
+interpolationWeight = 600;
 instanceInterpolations = {
 "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63" = 1;
 };

@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "H/uni0137 H"
 );
@@ -56110,6 +56110,7 @@ name = postscriptFontName;
 value = "Tomorrow-BoldItalic";
 }
 );
+interpolationWeight = 700;
 instanceInterpolations = {
 "D215EC84-7FFD-4436-99F3-284D9B779A16" = 1;
 };

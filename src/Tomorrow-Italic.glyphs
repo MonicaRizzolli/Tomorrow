@@ -39049,6 +39049,7 @@ name = postscriptFontName;
 value = "Tomorrow-Italic";
 }
 );
+interpolationWeight = 400;
 instanceInterpolations = {
 "7AC970EF-486C-4FB8-91F6-C99015BB6A18" = 1;
 };

@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
 customParameters = (
 {
@@ -42932,6 +42932,7 @@ name = postscriptFontName;
 value = "Tomorrow-Bold";
 }
 );
+interpolationWeight = 700;
 instanceInterpolations = {
 "D215EC84-7FFD-4436-99F3-284D9B779A16" = 1;
 };

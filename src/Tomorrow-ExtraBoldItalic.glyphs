@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "H/kgreenlandic H"
 );
@@ -111,7 +111,7 @@ verticalStems = (
 279
 );
 weight = Bold;
-weightValue = 240;
+weightValue = 800;
 xHeight = 523;
 }
 );
@@ -17315,7 +17315,7 @@ name = postscriptFontName;
 value = "Tomorrow-ExtraBoldItalic";
 }
 );
-interpolationWeight = 240;
+interpolationWeight = 800;
 instanceInterpolations = {
 "2BED5241-FEE2-452B-8B42-4A46EDD0955E" = 1;
 };

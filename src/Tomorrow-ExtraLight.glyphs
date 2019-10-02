@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/uni0136"
 );
@@ -41671,6 +41671,7 @@ name = postscriptFontName;
 value = "Tomorrow-ExtraLight";
 }
 );
+interpolationWeight = 200;
 instanceInterpolations = {
 "7107EBA0-69BE-4603-8F48-BAA3372D0529" = 1;
 };

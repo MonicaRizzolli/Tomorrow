@@ -1,6 +1,6 @@
 for src in src/*.glyphs
 do
-  fontmake -g $src -o ttf --output-dir output/
+  fontmake -g $src -o ttf -i --output-dir output/
 done
 
 for font in output/*.ttf
