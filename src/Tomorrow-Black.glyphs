@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/dotbelowcomb"
 );
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -661,7 +661,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-09-18 21:12:12 +0000";
+date = "2019-10-02 19:55:39 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;

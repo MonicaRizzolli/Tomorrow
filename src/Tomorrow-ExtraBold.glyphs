@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/kgreenlandic"
 );
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = vendorID;
@@ -36,7 +36,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-09-18 20:59:36 +0000";
+date = "2019-10-02 19:54:58 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 familyName = Tomorrow;
