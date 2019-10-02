@@ -727,6 +727,7 @@ horizontalStems = (
 );
 iconName = Bold;
 id = "59338637-1E5C-47E2-9B1C-5C70074789A9";
+italicAngle = 10;
 verticalStems = (
 330
 );

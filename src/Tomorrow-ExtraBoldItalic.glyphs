@@ -102,6 +102,7 @@ horizontalStems = (
 119
 );
 id = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
+italicAngle = 10;
 name = ExtraBoldItalic;
 userData = {
 GSOffsetHorizontal = 5;

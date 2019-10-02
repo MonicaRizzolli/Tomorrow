@@ -728,6 +728,7 @@ horizontalStems = (
 47
 );
 id = "EE67F182-E529-43D3-8004-363E3BB4E65C";
+italicAngle = 10;
 name = LightItalic;
 verticalStems = (
 51

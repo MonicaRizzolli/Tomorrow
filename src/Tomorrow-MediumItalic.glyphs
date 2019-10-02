@@ -728,6 +728,7 @@ horizontalStems = (
 100
 );
 id = "A9EE2906-FF39-4E72-95D8-9DA33406E6B9";
+italicAngle = 10;
 verticalStems = (
 114
 );

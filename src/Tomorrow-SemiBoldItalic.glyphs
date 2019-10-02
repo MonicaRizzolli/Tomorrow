@@ -740,6 +740,7 @@ horizontalStems = (
 );
 iconName = Bold;
 id = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
+italicAngle = 10;
 name = SemiBoldItalic;
 verticalStems = (
 152
