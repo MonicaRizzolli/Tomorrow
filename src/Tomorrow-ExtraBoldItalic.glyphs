@@ -8497,16 +8497,12 @@ unicode = 0231;
 },
 {
 glyphname = odotbelow;
-lastChange = "2019-09-10 19:27:05 +0000";
+lastChange = "2019-10-02 21:40:54 +0000";
 layers = (
 {
 components = (
 {
 name = o;
-},
-{
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 173.5, 0}";
 },
 {
 name = dotbelowcomb;
