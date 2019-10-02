@@ -730,7 +730,7 @@ id = "FE9AE829-1AF8-474A-9DD0-DE8BEF1E0601";
 verticalStems = (
 82
 );
-weightValue = 400;
+weightValue = 1;
 widthValue = 5;
 xHeight = 523;
 }
@@ -41593,7 +41593,7 @@ name = postscriptFontName;
 value = "Tomorrow-Regular";
 }
 );
-interpolationWeight = 400;
+interpolationWeight = 1;
 instanceInterpolations = {
 "FE9AE829-1AF8-474A-9DD0-DE8BEF1E0601" = 1;
 };
