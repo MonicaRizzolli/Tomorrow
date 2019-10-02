@@ -651,7 +651,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = licenseURL;
-value = "http://scripts.sil/OFL";
+value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -38991,26 +38991,12 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Extra Light Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-ExtraLightItalic";
-},
-{
-name = styleMapFamilyName;
-value = "Extra Light";
-}
-);
 interpolationWeight = 200;
 instanceInterpolations = {
 "4A657952-F232-4636-873B-F2B6F2CFB0B2" = 1;
 };
 isItalic = 1;
-name = "Extra Light Italic";
+name = "ExtraLight Italic";
 weightClass = ExtraLight;
 }
 );

@@ -56101,16 +56101,6 @@ note = uni03020303;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Bold Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-BoldItalic";
-}
-);
 interpolationWeight = 700;
 instanceInterpolations = {
 "D215EC84-7FFD-4436-99F3-284D9B779A16" = 1;

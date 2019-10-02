@@ -39008,20 +39008,6 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Light Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-LightItalic";
-},
-{
-name = styleMapFamilyName;
-value = Light;
-}
-);
 interpolationWeight = 300;
 instanceInterpolations = {
 "EE67F182-E529-43D3-8004-363E3BB4E65C" = 1;

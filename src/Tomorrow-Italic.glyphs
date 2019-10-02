@@ -39040,20 +39040,6 @@ unicode = F000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-Italic";
-},
-{
-name = weightClass;
-value = 400;
-}
-);
 interpolationWeight = 1;
 instanceInterpolations = {
 "7AC970EF-486C-4FB8-91F6-C99015BB6A18" = 1;

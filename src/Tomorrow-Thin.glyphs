@@ -1,5 +1,5 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 Kk,
 K
@@ -41287,16 +41287,6 @@ unicode = F000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Thin";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-Thin";
-}
-);
 instanceInterpolations = {
 "0A44E515-E956-4F85-8EFC-D1601816D0DE" = 1;
 };

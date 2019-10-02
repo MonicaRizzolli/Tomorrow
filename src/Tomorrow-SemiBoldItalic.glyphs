@@ -55641,23 +55641,12 @@ note = uni03020303;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Semi Bold Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-SemiBoldItalic";
-}
-);
 interpolationWeight = 600;
 instanceInterpolations = {
 "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63" = 1;
 };
 isItalic = 1;
-linkStyle = "Semi Bold";
-name = "Semi Bold Italic";
+name = "SemiBold Italic";
 weightClass = SemiBold;
 }
 );

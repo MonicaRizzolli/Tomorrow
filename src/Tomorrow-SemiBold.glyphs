@@ -41668,21 +41668,11 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Semi Bold";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-SemiBold";
-}
-);
 interpolationWeight = 600;
 instanceInterpolations = {
 "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63" = 1;
 };
-name = "Semi Bold";
+name = SemiBold;
 weightClass = SemiBold;
 }
 );

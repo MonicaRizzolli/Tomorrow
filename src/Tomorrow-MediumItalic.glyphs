@@ -38799,16 +38799,6 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Medium Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-MediumItalic";
-}
-);
 interpolationWeight = 500;
 instanceInterpolations = {
 "A9EE2906-FF39-4E72-95D8-9DA33406E6B9" = 1;

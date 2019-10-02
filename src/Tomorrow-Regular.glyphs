@@ -41583,16 +41583,6 @@ unicode = F000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Regular";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-Regular";
-}
-);
 interpolationWeight = 1;
 instanceInterpolations = {
 "FE9AE829-1AF8-474A-9DD0-DE8BEF1E0601" = 1;

@@ -26466,7 +26466,7 @@ interpolationWeight = 800;
 instanceInterpolations = {
 "2BED5241-FEE2-452B-8B42-4A46EDD0955E" = 1;
 };
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = ExtraBold;
 }
 );
