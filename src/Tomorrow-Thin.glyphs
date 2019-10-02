@@ -650,6 +650,10 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-09-10 19:03:13 +0000";
@@ -675,13 +679,13 @@ name = ordn;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
 custom = Thin;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -689,15 +693,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1233;
 },
 {
 name = winDescent;
-value = 200;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -706,6 +710,10 @@ value = 1000;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
