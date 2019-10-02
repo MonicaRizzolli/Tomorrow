@@ -56114,6 +56114,7 @@ interpolationWeight = 700;
 instanceInterpolations = {
 "D215EC84-7FFD-4436-99F3-284D9B779A16" = 1;
 };
+isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
 weightClass = Bold;
