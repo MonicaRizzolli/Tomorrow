@@ -742,7 +742,7 @@ verticalStems = (
 30
 );
 weight = Light;
-weightValue = 200;
+weightValue = 275;
 widthValue = 5;
 xHeight = 523;
 }
@@ -39001,7 +39001,13 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-interpolationWeight = 200;
+customParameters = (
+{
+name = weightClass;
+value = 275;
+}
+);
+interpolationWeight = 275;
 instanceInterpolations = {
 "4A657952-F232-4636-873B-F2B6F2CFB0B2" = 1;
 };

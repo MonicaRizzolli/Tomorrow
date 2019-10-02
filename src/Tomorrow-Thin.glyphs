@@ -732,6 +732,7 @@ id = "0A44E515-E956-4F85-8EFC-D1601816D0DE";
 verticalStems = (
 20
 );
+weightValue = 250;
 widthValue = 5;
 xHeight = 523;
 }
@@ -41297,6 +41298,13 @@ unicode = F000;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 250;
+}
+);
+interpolationWeight = 250;
 instanceInterpolations = {
 "0A44E515-E956-4F85-8EFC-D1601816D0DE" = 1;
 };

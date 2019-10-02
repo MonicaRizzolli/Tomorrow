@@ -38549,6 +38549,12 @@ unicode = F000;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 250;
+}
+);
 interpolationWeight = 250;
 instanceInterpolations = {
 "456D8B29-1305-406A-A7FA-547C067BBBCD" = 1;

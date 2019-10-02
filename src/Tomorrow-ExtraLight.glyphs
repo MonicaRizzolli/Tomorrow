@@ -741,7 +741,7 @@ verticalStems = (
 30
 );
 weight = Light;
-weightValue = 200;
+weightValue = 275;
 widthValue = 5;
 xHeight = 523;
 }
@@ -41671,7 +41671,13 @@ unicode = F000;
 );
 instances = (
 {
-interpolationWeight = 200;
+customParameters = (
+{
+name = weightClass;
+value = 275;
+}
+);
+interpolationWeight = 275;
 instanceInterpolations = {
 "7107EBA0-69BE-4603-8F48-BAA3372D0529" = 1;
 };

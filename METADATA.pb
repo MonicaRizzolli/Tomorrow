@@ -6,6 +6,24 @@ date_added: "2019-10-02"
 fonts {
   name: "Tomorrow"
   style: "normal"
+  weight: 100
+  filename: "Tomorrow-Thin.ttf"
+  post_script_name: "Tomorrow-Thin"
+  full_name: "Tomorrow Thin"
+  copyright: "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
+}
+fonts {
+  name: "Tomorrow"
+  style: "italic"
+  weight: 100
+  filename: "Tomorrow-ThinItalic.ttf"
+  post_script_name: "Tomorrow-ThinItalic"
+  full_name: "Tomorrow Thin Italic"
+  copyright: "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
+}
+fonts {
+  name: "Tomorrow"
+  style: "normal"
   weight: 200
   filename: "Tomorrow-ExtraLight.ttf"
   post_script_name: "Tomorrow-ExtraLight"
@@ -19,24 +37,6 @@ fonts {
   filename: "Tomorrow-ExtraLightItalic.ttf"
   post_script_name: "Tomorrow-ExtraLightItalic"
   full_name: "Tomorrow ExtraLight Italic"
-  copyright: "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
-}
-fonts {
-  name: "Tomorrow"
-  style: "normal"
-  weight: 100
-  filename: "Tomorrow-Thin.ttf"
-  post_script_name: "Tomorrow-Thin"
-  full_name: "Tomorrow Thin"
-  copyright: "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
-}
-fonts {
-  name: "Tomorrow"
-  style: "italic"
-  weight: 250
-  filename: "Tomorrow-ThinItalic.ttf"
-  post_script_name: "Tomorrow-ThinItalic"
-  full_name: "Tomorrow Thin Italic"
   copyright: "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)"
 }
 fonts {
@@ -150,7 +150,7 @@ fonts {
 fonts {
   name: "Tomorrow"
   style: "normal"
-  weight: 850
+  weight: 900
   filename: "Tomorrow-Black.ttf"
   post_script_name: "Tomorrow-Black"
   full_name: "Tomorrow Black"
@@ -159,7 +159,7 @@ fonts {
 fonts {
   name: "Tomorrow"
   style: "italic"
-  weight: 850
+  weight: 900
   filename: "Tomorrow-BlackItalic.ttf"
   post_script_name: "Tomorrow-BlackItalic"
   full_name: "Tomorrow Black Italic"

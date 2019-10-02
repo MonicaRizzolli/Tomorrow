@@ -738,7 +738,7 @@ id = "59338637-1E5C-47E2-9B1C-5C70074789A9";
 verticalStems = (
 330
 );
-weightValue = 850;
+weightValue = 900;
 widthValue = 5;
 xHeight = 523;
 }
@@ -39464,7 +39464,7 @@ unicode = F000;
 );
 instances = (
 {
-interpolationWeight = 850;
+interpolationWeight = 900;
 instanceInterpolations = {
 "59338637-1E5C-47E2-9B1C-5C70074789A9" = 1;
 };
