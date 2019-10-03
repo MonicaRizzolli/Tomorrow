@@ -1,6 +1,6 @@
 {
-.appVersion = "1264";
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+.appVersion = "1230";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -654,9 +654,13 @@ value = JUST;
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2019-09-30 19:57:58 +0000";
+date = "2019-10-02 19:47:15 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -679,13 +683,13 @@ name = ordn;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
-custom = Demi;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -693,15 +697,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1233;
 },
 {
 name = winDescent;
-value = 200;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -710,6 +714,10 @@ value = 1000;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -738,12 +746,14 @@ position = "{527, 760.87}";
 horizontalStems = (
 105
 );
+iconName = Bold;
 id = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
-name = DemiBold;
+italicAngle = 10;
+name = SemiBoldItalic;
 verticalStems = (
 152
 );
-weight = Bold;
+weight = SemiBold;
 weightValue = 600;
 widthValue = 5;
 xHeight = 523;
@@ -828,7 +838,7 @@ note = .notdef;
 },
 {
 glyphname = CR;
-lastChange = "2019-09-30 19:56:34 +0000";
+lastChange = "2019-10-02 06:03:42 +0000";
 layers = (
 {
 layerId = "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63";
@@ -836,6 +846,7 @@ width = 600;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;
@@ -55639,23 +55650,13 @@ note = uni03020303;
 gridLength = 0;
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Semi Bold Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-SemiBoldItalic";
-}
-);
+interpolationWeight = 600;
 instanceInterpolations = {
 "37B3F0A2-20CC-4AE3-B6A0-1D169A898E63" = 1;
 };
 isItalic = 1;
-linkStyle = "Semi Bold";
-name = "Semi Bold Italic";
-weightClass = DemiBold;
+name = "SemiBold Italic";
+weightClass = SemiBold;
 }
 );
 kerning = {

@@ -1,6 +1,6 @@
 {
 .appVersion = "1230";
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -654,9 +654,13 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2019-09-18 21:02:45 +0000";
+date = "2019-10-02 19:46:37 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -679,13 +683,13 @@ name = ordn;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
 custom = ThinItalic;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -693,15 +697,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1233;
 },
 {
 name = winDescent;
-value = 200;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -710,6 +714,10 @@ value = 1000;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -725,6 +733,7 @@ horizontalStems = (
 20
 );
 id = "456D8B29-1305-406A-A7FA-547C067BBBCD";
+italicAngle = 10;
 verticalStems = (
 20
 );
@@ -811,6 +820,7 @@ width = 600;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;
@@ -38540,18 +38550,6 @@ unicode = F000;
 instances = (
 {
 customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Thin Italic";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-ThinItalic";
-},
-{
-name = styleMapFamilyName;
-value = Thin;
-},
 {
 name = weightClass;
 value = 250;

@@ -1,9 +1,9 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/kgreenlandic"
 );
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = vendorID;
@@ -30,9 +30,13 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2019-09-18 20:59:36 +0000";
+date = "2019-10-02 19:54:58 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 familyName = Tomorrow;
@@ -83,9 +87,51 @@ name = liga;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
 custom = Extra;
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1233;
+},
+{
+name = winDescent;
+value = 279;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = strikeoutPosition;
+value = 313;
+},
+{
+name = strikeoutSize;
+value = 50;
+}
+);
 descender = -200;
 guideLines = (
 {
@@ -120,7 +166,7 @@ verticalStems = (
 279
 );
 weight = Bold;
-weightValue = 240;
+weightValue = 800;
 xHeight = 523;
 }
 );
@@ -26462,12 +26508,11 @@ unicode = F000;
 gridLength = 0;
 instances = (
 {
-interpolationWeight = 240;
+interpolationWeight = 800;
 instanceInterpolations = {
 "2BED5241-FEE2-452B-8B42-4A46EDD0955E" = 1;
 };
-isBold = 1;
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = ExtraBold;
 }
 );

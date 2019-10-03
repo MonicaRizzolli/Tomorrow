@@ -1,9 +1,9 @@
 {
-.appVersion = "1264";
+.appVersion = "1230";
 DisplayStrings = (
 "/uni0136"
 );
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -657,9 +657,13 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2019-09-18 20:46:38 +0000";
+date = "2019-10-02 19:53:38 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -682,12 +686,12 @@ name = ordn;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -695,15 +699,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1233;
 },
 {
 name = winDescent;
-value = 200;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -712,6 +716,10 @@ value = 1000;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -815,6 +823,7 @@ note = .notdef;
 },
 {
 glyphname = CR;
+lastChange = "2019-10-02 06:04:54 +0000";
 layers = (
 {
 layerId = "43E2286E-6EE6-4840-9A6A-FE0C69444F4F";
@@ -822,6 +831,7 @@ width = 600;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;
@@ -41714,16 +41724,7 @@ unicode = F000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Light";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-Light";
-}
-);
+interpolationWeight = 300;
 instanceInterpolations = {
 "43E2286E-6EE6-4840-9A6A-FE0C69444F4F" = 1;
 };

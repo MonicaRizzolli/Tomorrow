@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/dotbelowcomb"
 );
-copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/googlefonts/Tomorrow)";
+copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
 name = panose;
@@ -655,9 +655,13 @@ value = "http://scripts.sil.org/OFL";
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
-date = "2019-09-18 21:12:12 +0000";
+date = "2019-10-02 19:55:39 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -680,13 +684,13 @@ name = ordn;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 1000;
 capHeight = 737;
 custom = Black;
 customParameters = (
 {
 name = typoAscender;
-value = 800;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -694,15 +698,15 @@ value = -200;
 },
 {
 name = typoLineGap;
-value = 200;
+value = 0;
 },
 {
 name = winAscent;
-value = 1000;
+value = 1233;
 },
 {
 name = winDescent;
-value = 200;
+value = 279;
 },
 {
 name = hheaAscender;
@@ -711,6 +715,10 @@ value = 1000;
 {
 name = hheaDescender;
 value = -200;
+},
+{
+name = hheaLineGap;
+value = 0;
 },
 {
 name = strikeoutPosition;
@@ -730,7 +738,7 @@ id = "59338637-1E5C-47E2-9B1C-5C70074789A9";
 verticalStems = (
 330
 );
-weightValue = 850;
+weightValue = 900;
 widthValue = 5;
 xHeight = 523;
 }
@@ -814,6 +822,7 @@ note = .notdef;
 },
 {
 glyphname = CR;
+lastChange = "2019-10-02 06:06:55 +0000";
 layers = (
 {
 layerId = "59338637-1E5C-47E2-9B1C-5C70074789A9";
@@ -821,6 +830,7 @@ width = 308;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = space;
@@ -39454,20 +39464,7 @@ unicode = F000;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Tomorrow Black";
-},
-{
-name = postscriptFontName;
-value = "Tomorrow-Black";
-},
-{
-name = weightClass;
-value = 850;
-}
-);
+interpolationWeight = 900;
 instanceInterpolations = {
 "59338637-1E5C-47E2-9B1C-5C70074789A9" = 1;
 };
