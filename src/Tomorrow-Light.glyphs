@@ -1,8 +1,5 @@
 {
 .appVersion = "1264";
-DisplayStrings = (
-"fì Fì Pï P/imacron  Tä T/imacron  V/imacron  T/uni1EA7 T/uni0201 T/uni1EC1 T/uni0205 T/uni0209 T/uni1ED3 T/uni020D T/uni0215  F/uni1EA7 F/uni0201 F/uni1EC1 F/uni0205 F/uni0209 F/uni1ED3 F/uni020D F/uni0215  V/uni1EA7 V/uni0201 V/uni1EC1 V/uni0205 V/uni0209 V/uni1ED3 V/uni020D V/uni0215  W/uni1EA7 W/uni0201 W/uni1EC1 W/uni0205 W/uni0209 W/uni1ED3 W/uni020D W/uni0215  P/uni1EA7 P/uni0201 P/uni1EC1 P/uni0205 P/uni0209 P/uni1ED3 P/uni020D P/uni0215 VïWïFïTïTiTti"
-);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
@@ -35399,10 +35396,11 @@ unicode = 27E9;
 },
 {
 glyphname = uni00A0;
+lastChange = "2019-10-08 22:55:53 +0000";
 layers = (
 {
 layerId = "43E2286E-6EE6-4840-9A6A-FE0C69444F4F";
-width = 253;
+width = 240;
 }
 );
 note = uni00A0;
