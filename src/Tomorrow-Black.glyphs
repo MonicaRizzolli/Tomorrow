@@ -658,7 +658,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-10-08 22:37:11 +0000";
+date = "2019-10-14 17:16:11 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -34250,7 +34250,7 @@ unicode = 20B2;
 },
 {
 glyphname = uni20AD;
-lastChange = "2019-09-03 21:22:04 +0000";
+lastChange = "2019-10-14 14:51:36 +0000";
 layers = (
 {
 hints = (
@@ -34279,12 +34279,12 @@ nodes = (
 "484 275 LINE",
 "484 0 LINE",
 "847 0 LINE",
-"847 278 LINE",
-"803 318 LINE",
+"847 238 LINE",
+"763 318 LINE",
 "878 318 LINE",
 "878 468 LINE",
-"804 468 LINE",
-"847 506 LINE",
+"764 468 LINE",
+"847 546 LINE",
 "847 737 LINE",
 "484 737 LINE",
 "484 510 LINE",
@@ -39711,5 +39711,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

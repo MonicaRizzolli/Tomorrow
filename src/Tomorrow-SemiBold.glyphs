@@ -660,7 +660,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-10-08 22:36:05 +0000";
+date = "2019-10-14 17:15:48 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -43130,5 +43130,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

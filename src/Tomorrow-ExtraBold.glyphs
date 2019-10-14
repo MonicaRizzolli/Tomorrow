@@ -33,7 +33,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-10-08 22:36:50 +0000";
+date = "2019-10-14 17:17:13 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 familyName = Tomorrow;
@@ -23919,7 +23919,7 @@ unicode = 00B1;
 },
 {
 glyphname = approxequal;
-lastChange = "2019-09-03 21:20:28 +0000";
+lastChange = "2019-10-14 15:14:42 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -23927,43 +23927,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 398 LINE",
-"682 483 LINE",
-"683 564 LINE",
-"455 564 LINE",
-"455 511 LINE",
-"411 511 LINE",
-"411 569 LINE",
-"128 569 LINE",
-"45 484 LINE",
-"44 403 LINE",
-"272 403 LINE",
-"272 455 LINE",
-"316 455 LINE",
-"316 398 LINE"
+"507.1 393.8 LINE",
+"595.3 469.4 LINE",
+"595.3 562.85 LINE",
+"440.95 562.85 LINE",
+"440.95 528.2 LINE",
+"424.15 512.45 LINE",
+"395.25 512.45 LINE",
+"343.8 570.2 LINE",
+"131.15 570.2 LINE",
+"44 492.5 LINE",
+"44 400.1 LINE",
+"198.35 400.1 LINE",
+"198.35 433.7 LINE",
+"215.15 450.5 LINE",
+"243 450.5 LINE",
+"295.5 393.8 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"600 177 LINE",
-"682 262 LINE",
-"683 343 LINE",
-"455 343 LINE",
-"455 290 LINE",
-"411 290 LINE",
-"411 348 LINE",
-"128 348 LINE",
-"45 263 LINE",
-"44 182 LINE",
-"272 182 LINE",
-"272 234 LINE",
-"316 234 LINE",
-"316 177 LINE"
+"507.1 172.598 LINE",
+"595.3 248.198 LINE",
+"595.3 341.648 LINE",
+"440.95 341.648 LINE",
+"440.95 306.998 LINE",
+"424.15 291.248 LINE",
+"395.25 291.248 LINE",
+"343.8 348.998 LINE",
+"131.15 348.998 LINE",
+"44 271.298 LINE",
+"44 178.898 LINE",
+"198.35 178.898 LINE",
+"198.35 212.498 LINE",
+"215.15 229.298 LINE",
+"243 229.298 LINE",
+"295.5 172.598 LINE"
 );
 }
 );
-width = 727;
+width = 639.3;
 }
 );
 leftMetricsKey = n;
@@ -23972,7 +23976,7 @@ unicode = 2248;
 },
 {
 glyphname = asciitilde;
-lastChange = "2019-09-03 21:20:28 +0000";
+lastChange = "2019-10-14 15:14:28 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -23980,24 +23984,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"600 288 LINE",
-"682 373 LINE",
-"683 454 LINE",
-"455 454 LINE",
-"455 401 LINE",
-"411 401 LINE",
-"411 459 LINE",
-"128 459 LINE",
-"45 374 LINE",
-"44 293 LINE",
-"272 293 LINE",
-"272 345 LINE",
-"316 345 LINE",
-"316 288 LINE"
+"507.096 284.825 LINE",
+"595.296 360.425 LINE",
+"595.296 453.875 LINE",
+"440.946 453.875 LINE",
+"440.946 419.225 LINE",
+"424.146 403.475 LINE",
+"395.246 403.475 LINE",
+"343.796 461.225 LINE",
+"131.146 461.225 LINE",
+"43.996 383.525 LINE",
+"43.996 291.125 LINE",
+"198.346 291.125 LINE",
+"198.346 324.725 LINE",
+"215.146 341.525 LINE",
+"242.996 341.525 LINE",
+"295.496 284.825 LINE"
 );
 }
 );
-width = 727;
+width = 639.3;
 }
 );
 leftKerningGroup = asciitilde;
@@ -24095,7 +24101,7 @@ unicode = 00B5;
 },
 {
 glyphname = percent;
-lastChange = "2019-09-03 21:20:28 +0000";
+lastChange = "2019-10-14 14:41:14 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -24103,10 +24109,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"931 612 LINE",
-"818 734 LINE",
-"117 127 LINE",
-"229 4 LINE"
+"903.368 653.214 LINE",
+"778.235 762.733 LINE",
+"144.524 85.784 LINE",
+"268.767 -24.835 LINE"
 );
 },
 {
@@ -24163,20 +24169,11 @@ unicode = 0025;
 },
 {
 glyphname = perthousand;
-lastChange = "2019-09-03 21:20:28 +0000";
+lastChange = "2019-10-14 14:41:21 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
 paths = (
-{
-closed = 1;
-nodes = (
-"931 612 LINE",
-"818 734 LINE",
-"117 127 LINE",
-"229 4 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -24241,6 +24238,15 @@ nodes = (
 "1272 234.4 LINE",
 "1272 153 LINE",
 "1192.8 153 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"903.368 653.214 LINE",
+"778.235 762.733 LINE",
+"144.524 85.784 LINE",
+"268.767 -24.835 LINE"
 );
 }
 );
@@ -27104,5 +27110,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

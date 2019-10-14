@@ -660,7 +660,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-10-08 22:36:29 +0000";
+date = "2019-10-14 17:16:49 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 disablesNiceNames = 1;
@@ -37244,7 +37244,7 @@ unicode = 20AB;
 },
 {
 glyphname = Euro;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:28:08 +0000";
 layers = (
 {
 hints = (
@@ -37286,46 +37286,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"627 1 LINE",
-"738 112 LINE",
-"738 262 LINE",
-"557 262 LINE",
-"557 178 LINE",
-"520 143 LINE",
+"647 1 LINE",
+"758 112 LINE",
+"758 262 LINE",
+"577 262 LINE",
+"577 178 LINE",
+"540 143 LINE",
 "353 143 LINE",
 "317 178 LINE",
-"317 215 LINE",
-"419 215 LINE",
-"419 325 LINE",
-"317 325 LINE",
-"317 365 LINE",
-"464 365 LINE",
-"464 475 LINE",
-"317 475 LINE",
+"317 248 LINE",
+"459 248 LINE",
+"459 358 LINE",
+"317 358 LINE",
+"317 398 LINE",
+"504 398 LINE",
+"504 508 LINE",
+"317 508 LINE",
 "317 561 LINE",
 "353 596 LINE",
-"514 596 LINE",
-"550 561 LINE",
-"550 478 LINE",
-"732 478 LINE",
-"732 627 LINE",
-"620 738 LINE",
+"534 596 LINE",
+"570 561 LINE",
+"570 478 LINE",
+"752 478 LINE",
+"752 627 LINE",
+"640 738 LINE",
 "241 738 LINE",
 "130 627 LINE",
-"130 475 LINE",
-"50 475 LINE",
-"50 365 LINE",
-"130 365 LINE",
-"130 325 LINE",
-"50 325 LINE",
-"50 215 LINE",
-"130 215 LINE",
+"130 508 LINE",
+"50 508 LINE",
+"50 398 LINE",
+"130 398 LINE",
+"130 358 LINE",
+"50 358 LINE",
+"50 248 LINE",
+"130 248 LINE",
 "130 112 LINE",
 "241 1 LINE"
 );
 }
 );
-width = 778;
+width = 798;
 }
 );
 note = Euro;
@@ -37584,7 +37584,7 @@ unicode = 20AD;
 },
 {
 glyphname = lira;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:30:25 +0000";
 layers = (
 {
 hints = (
@@ -37622,25 +37622,25 @@ paths = (
 {
 closed = 1;
 nodes = (
-"684.7 0 LINE",
-"684.7 151.8 LINE",
+"704.7 0 LINE",
+"704.7 151.8 LINE",
 "314 151.8 LINE",
 "314 229.9 LINE",
-"453.7 229.9 LINE",
-"453.7 350.9 LINE",
+"473.7 229.9 LINE",
+"473.7 350.9 LINE",
 "314 350.9 LINE",
 "314 394.9 LINE",
-"453.7 394.9 LINE",
-"453.7 515.9 LINE",
+"473.7 394.9 LINE",
+"473.7 515.9 LINE",
 "314 515.9 LINE",
 "314 559.9 LINE",
 "349.2 595.1 LINE",
-"468 595.1 LINE",
-"503.2 559.9 LINE",
-"503.2 477.4 LINE",
-"684.7 477.4 LINE",
-"684.7 625.9 LINE",
-"573.6 737 LINE",
+"488 595.1 LINE",
+"523.2 559.9 LINE",
+"523.2 477.4 LINE",
+"704.7 477.4 LINE",
+"704.7 625.9 LINE",
+"593.6 737 LINE",
 "238.1 737 LINE",
 "127 625.9 LINE",
 "127 515.9 LINE",
@@ -37657,7 +37657,7 @@ nodes = (
 );
 }
 );
-width = 735;
+width = 755;
 }
 );
 note = lira;
@@ -37665,7 +37665,7 @@ unicode = 20A4;
 },
 {
 glyphname = uni20BA;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:31:58 +0000";
 layers = (
 {
 hints = (
@@ -37688,20 +37688,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"539 0 LINE",
-"650 111 LINE",
-"650 370 LINE",
-"463 370 LINE",
-"463 188 LINE",
-"428 153 LINE",
+"559 0 LINE",
+"670 111 LINE",
+"670 370 LINE",
+"483 370 LINE",
+"483 188 LINE",
+"448 153 LINE",
 "313.8 153 LINE",
 "313.8 355.91 LINE",
-"453 406 LINE",
-"453 532 LINE",
+"472 413 LINE",
+"472 539 LINE",
 "313.8 481.91 LINE",
 "313.8 525.91 LINE",
-"453 576 LINE",
-"453 703 LINE",
+"472 583 LINE",
+"472 710 LINE",
 "313.8 652.91 LINE",
 "313.8 737 LINE",
 "126.8 737 LINE",
@@ -37717,7 +37717,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 720;
 }
 );
 note = uni20BA;
@@ -37725,7 +37725,7 @@ unicode = 20BA;
 },
 {
 glyphname = uni20BC;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:32:32 +0000";
 layers = (
 {
 hints = (
@@ -37755,27 +37755,27 @@ nodes = (
 "237 0 LINE",
 "237 439 LINE",
 "273 474 LINE",
-"286 474 LINE",
-"286 0 LINE",
-"468 0 LINE",
-"468 474 LINE",
-"481 474 LINE",
-"517 439 LINE",
-"517 0 LINE",
-"704 0 LINE",
-"704 516 LINE",
-"593 627 LINE",
-"468 627 LINE",
-"468 737 LINE",
-"286 737 LINE",
-"286 627 LINE",
+"336 474 LINE",
+"336 0 LINE",
+"518 0 LINE",
+"518 474 LINE",
+"581 474 LINE",
+"617 439 LINE",
+"617 0 LINE",
+"804 0 LINE",
+"804 516 LINE",
+"693 627 LINE",
+"518 627 LINE",
+"518 737 LINE",
+"336 737 LINE",
+"336 627 LINE",
 "161 627 LINE",
 "50 516 LINE",
 "50 0 LINE"
 );
 }
 );
-width = 754;
+width = 854;
 }
 );
 note = uni20BC;
@@ -38077,7 +38077,7 @@ unicode = 20BD;
 },
 {
 glyphname = uni20B9;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:38:21 +0000";
 layers = (
 {
 hints = (
@@ -38106,34 +38106,34 @@ paths = (
 {
 closed = 1;
 nodes = (
-"571 0 LINE",
-"295 251 LINE",
-"432 251 LINE",
-"543 362 LINE",
-"543 444 LINE",
-"620 444 LINE",
-"620 565 LINE",
-"543 565 LINE",
-"543 616 LINE",
-"620 616 LINE",
-"620 737 LINE",
+"591 0 LINE",
+"315 251 LINE",
+"452 251 LINE",
+"563 362 LINE",
+"563 444 LINE",
+"640 444 LINE",
+"640 565 LINE",
+"563 565 LINE",
+"563 616 LINE",
+"640 616 LINE",
+"640 737 LINE",
 "70 737 LINE",
 "70 616 LINE",
-"326 616 LINE",
-"361 581 LINE",
-"361 565 LINE",
+"346 616 LINE",
+"381 581 LINE",
+"381 565 LINE",
 "70 565 LINE",
 "70 444 LINE",
-"361 444 LINE",
-"361 428 LINE",
-"326 393 LINE",
+"381 444 LINE",
+"381 428 LINE",
+"346 393 LINE",
 "70 393 LINE",
 "70 251 LINE",
-"339 0 LINE"
+"359 0 LINE"
 );
 }
 );
-width = 635;
+width = 655;
 }
 );
 note = uni20B9;
@@ -38141,7 +38141,7 @@ unicode = 20B9;
 },
 {
 glyphname = sterling;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:30:44 +0000";
 layers = (
 {
 hints = (
@@ -38174,21 +38174,21 @@ paths = (
 {
 closed = 1;
 nodes = (
-"685 0 LINE",
-"685 152 LINE",
+"705 0 LINE",
+"705 152 LINE",
 "314 152 LINE",
 "314 304 LINE",
-"503 304 LINE",
-"503 429 LINE",
+"523 304 LINE",
+"523 429 LINE",
 "314 429 LINE",
 "314 560 LINE",
 "349 595 LINE",
-"468 595 LINE",
-"503 560 LINE",
-"503 477 LINE",
-"685 477 LINE",
-"685 626 LINE",
-"574 737 LINE",
+"488 595 LINE",
+"523 560 LINE",
+"523 477 LINE",
+"705 477 LINE",
+"705 626 LINE",
+"594 737 LINE",
 "238 737 LINE",
 "127 626 LINE",
 "127 429 LINE",
@@ -38201,7 +38201,7 @@ nodes = (
 );
 }
 );
-width = 735;
+width = 755;
 }
 );
 note = sterling;
@@ -38961,7 +38961,7 @@ unicode = 00B1;
 },
 {
 glyphname = approxequal;
-lastChange = "2019-09-24 19:26:15 +0000";
+lastChange = "2019-10-14 14:45:17 +0000";
 layers = (
 {
 hints = (
@@ -44273,5 +44273,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

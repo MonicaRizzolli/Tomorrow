@@ -1,8 +1,5 @@
 {
 .appVersion = "1264";
-DisplayStrings = (
-"fì Fì Pï P/imacron  Tä T/imacron  V/imacron  T/acircumflexgrave T/adblgrave T/ecircumflexgrave T/edblgrave T/idblgrave T/ocircumflexgrave T/odblgrave T/udblgrave  F/acircumflexgrave F/adblgrave F/ecircumflexgrave F/edblgrave F/idblgrave F/ocircumflexgrave F/odblgrave F/udblgrave  V/acircumflexgrave V/adblgrave V/ecircumflexgrave V/edblgrave V/idblgrave V/ocircumflexgrave V/odblgrave V/udblgrave  W/acircumflexgrave W/adblgrave W/ecircumflexgrave W/edblgrave W/idblgrave W/ocircumflexgrave W/odblgrave W/udblgrave  P/acircumflexgrave P/adblgrave P/ecircumflexgrave P/edblgrave P/idblgrave P/ocircumflexgrave P/odblgrave P/udblgrave VïWïFïTï"
-);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
@@ -27,7 +24,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2019-10-08 22:37:01 +0000";
+date = "2019-10-14 17:17:00 +0000";
 designer = "Tony de Marco, Monica Rizzolli";
 designerURL = "http://contrast.parts";
 familyName = Tomorrow;
@@ -23700,7 +23697,7 @@ unicode = 00B1;
 },
 {
 glyphname = approxequal;
-lastChange = "2019-09-10 19:27:05 +0000";
+lastChange = "2019-10-14 15:14:07 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -23708,50 +23705,54 @@ paths = (
 {
 closed = 1;
 nodes = (
-"641.12 177 LINE",
-"738.108 262 LINE",
-"753.39 343 LINE",
-"520.39 343 LINE",
-"511.045 290 LINE",
-"467.045 290 LINE",
-"477.272 348 LINE",
-"189.272 348 LINE",
-"91.284 263 LINE",
-"76.002 182 LINE",
-"309.002 182 LINE",
-"318.171 234 LINE",
-"362.171 234 LINE",
-"352.12 177 LINE"
+"576.538 393.8 LINE",
+"678.068 469.4 LINE",
+"694.546 562.85 LINE",
+"540.196 562.85 LINE",
+"534.086 528.2 LINE",
+"514.509 512.45 LINE",
+"485.609 512.45 LINE",
+"444.342 570.2 LINE",
+"231.692 570.2 LINE",
+"130.841 492.5 LINE",
+"114.548 400.1 LINE",
+"268.898 400.1 LINE",
+"274.823 433.7 LINE",
+"294.585 450.5 LINE",
+"322.435 450.5 LINE",
+"364.938 393.8 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"680.088 398 LINE",
-"777.076 483 LINE",
-"792.358 564 LINE",
-"559.358 564 LINE",
-"550.013 511 LINE",
-"506.013 511 LINE",
-"516.24 569 LINE",
-"228.24 569 LINE",
-"130.252 484 LINE",
-"114.97 403 LINE",
-"347.97 403 LINE",
-"357.139 455 LINE",
-"401.139 455 LINE",
-"391.088 398 LINE"
+"537.534 172.598 LINE",
+"639.064 248.198 LINE",
+"655.542 341.648 LINE",
+"501.192 341.648 LINE",
+"495.082 306.998 LINE",
+"475.505 291.248 LINE",
+"446.605 291.248 LINE",
+"405.338 348.998 LINE",
+"192.688 348.998 LINE",
+"91.837 271.298 LINE",
+"75.545 178.898 LINE",
+"229.895 178.898 LINE",
+"235.819 212.498 LINE",
+"255.581 229.298 LINE",
+"283.431 229.298 LINE",
+"325.934 172.598 LINE"
 );
 }
 );
-width = 737.36;
+width = 639.81;
 }
 );
 unicode = 2248;
 },
 {
 glyphname = asciitilde;
-lastChange = "2019-09-10 19:27:05 +0000";
+lastChange = "2019-10-14 15:13:41 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -23759,24 +23760,26 @@ paths = (
 {
 closed = 1;
 nodes = (
-"661.122 288 LINE",
-"758.11 373 LINE",
-"773.392 454 LINE",
-"540.392 454 LINE",
-"531.047 401 LINE",
-"487.047 401 LINE",
-"497.274 459 LINE",
-"209.274 459 LINE",
-"111.286 374 LINE",
-"96.004 293 LINE",
-"329.004 293 LINE",
-"338.173 345 LINE",
-"382.173 345 LINE",
-"372.122 288 LINE"
+"557.318 284.825 LINE",
+"658.849 360.425 LINE",
+"675.326 453.875 LINE",
+"520.976 453.875 LINE",
+"514.867 419.225 LINE",
+"495.29 403.475 LINE",
+"466.39 403.475 LINE",
+"425.122 461.225 LINE",
+"212.472 461.225 LINE",
+"111.622 383.525 LINE",
+"95.329 291.125 LINE",
+"249.679 291.125 LINE",
+"255.604 324.725 LINE",
+"275.366 341.525 LINE",
+"303.216 341.525 LINE",
+"345.718 284.825 LINE"
 );
 }
 );
-width = 737.39;
+width = 638.81;
 }
 );
 leftKerningGroup = asciitilde;
@@ -23868,7 +23871,7 @@ unicode = 00B5;
 },
 {
 glyphname = percent;
-lastChange = "2019-10-06 17:49:21 +0000";
+lastChange = "2019-10-14 14:57:33 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
@@ -23876,10 +23879,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1066.878 606.455 LINE",
-"967.208 739.635 LINE",
-"159.291 132.601 LINE",
-"258.183 -1.798 LINE"
+"1044.448 645.102 LINE",
+"933.55 769.089 LINE",
+"181.614 93.95 LINE",
+"291.843 -31.319 LINE"
 );
 },
 {
@@ -23934,20 +23937,11 @@ unicode = 0025;
 },
 {
 glyphname = perthousand;
-lastChange = "2019-09-10 19:27:05 +0000";
+lastChange = "2019-10-14 14:57:42 +0000";
 layers = (
 {
 layerId = "2BED5241-FEE2-452B-8B42-4A46EDD0955E";
 paths = (
-{
-closed = 1;
-nodes = (
-"1066.878 606.455 LINE",
-"967.208 739.635 LINE",
-"159.291 132.601 LINE",
-"258.183 -1.798 LINE"
-);
-},
 {
 closed = 1;
 nodes = (
@@ -24012,6 +24006,15 @@ nodes = (
 "1368.145 234 LINE",
 "1353.862 153 LINE",
 "1274.862 153 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1044.448 645.102 LINE",
+"933.55 769.089 LINE",
+"181.614 93.95 LINE",
+"291.843 -31.319 LINE"
 );
 }
 );
@@ -26724,5 +26727,5 @@ manufacturer = "Just in Type";
 manufacturerURL = "http://www.justintype.com";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
