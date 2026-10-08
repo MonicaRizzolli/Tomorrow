@@ -1,5 +1,8 @@
 {
-.appVersion = "1264";
+.appVersion = "4108";
+DisplayStrings = (
+"HAMBURGEFONTSIV\012\012G/Gbreve/Gcaron/Gcircumflex/uni0122/Gdotaccent \012\012C/Cacute/Ccaron Ç/Ccircumflex/Cdotaccent \012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012HAHBHCHDHEHFHGHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012\012AHBHC/space HDHEHFHGHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012\012HAH/space HBH/space HCH/space HDH/space HEH/space HFH/space HGH/space HHH/space HIH/space HJH/space HKH/space HLH/space HMH/space HNH/space HOH/space HPH/space HQH/space HRH/space HSH/space HTH/space HUH/space HVH/space HWH/space HXH/space HYH/space HZH\012\012OAO/space OBO/space OCO/space ODO/space OEO/space OFO/space OGO/space OHO/space OIO/space OJO/space OKO/space OLO/space OMO/space ONO/space OOO/space OPO/space OQO/space ORO/space OSO/space OTO/space OUO/space OVO/space OWO/space OXO/space OYO/space OZO\012\012AVAVA/space VAVAV/space AWAWA/space WAWAW/space AYAYA/space YAYAY/space AXAXA/space XAXAX\012\012CACAC/space GAGAG/space SASAS/space TATAT/space LALAL/space JAJaj/space \012\012THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG\012PACK/space MY/space BOX/space WITH/space FIVE/space DOZEN/space LIQUOR/space JUGS\012SPHINX/space OF/space BLACK/space QUARTZ/space JUDGE/space MY/space VOW\012\012HCOH\012HCAH\012HCEH\012HCIH\012HCNH\012HCROH\012COCO\012COOC\012CACA\012CECE\012CICI\012CNCN\012CODO\012COTO\012COLD\012COOL\012CODE\012CORE\012CONE\012CORN\012COME"
+);
 copyright = "Copyright 2019 The Tomorrow Project Authors (https://github.com/MonicaRizzolli/Tomorrow)";
 customParameters = (
 {
@@ -639,8 +642,13 @@ uniF000
 );
 },
 {
-name = vendorID;
-value = JUST;
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = license;
@@ -651,13 +659,21 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = fsType;
-value = (
-);
+name = vendorID;
+value = JUST;
 },
 {
-name = "Use Typo Metrics";
-value = 1;
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+},
+{
+Name = Width;
+Tag = wdth;
+}
+);
 }
 );
 date = "2019-10-14 17:14:57 +0000";
@@ -732,6 +748,7 @@ descender = -200;
 horizontalStems = (
 47
 );
+iconName = Light;
 id = "EE67F182-E529-43D3-8004-363E3BB4E65C";
 italicAngle = 10;
 name = LightItalic;
@@ -5523,7 +5540,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5577,7 +5594,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
@@ -5587,7 +5604,7 @@ unicode = 0047;
 },
 {
 glyphname = Gbreve;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5663,7 +5680,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
@@ -5673,7 +5690,7 @@ unicode = 011E;
 },
 {
 glyphname = Gcaron;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5745,7 +5762,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
@@ -5755,7 +5772,7 @@ unicode = 01E6;
 },
 {
 glyphname = Gcircumflex;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5827,7 +5844,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
@@ -5837,7 +5854,7 @@ unicode = 011C;
 },
 {
 glyphname = uni0122;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5905,7 +5922,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
@@ -5915,7 +5932,7 @@ unicode = 0122;
 },
 {
 glyphname = Gdotaccent;
-lastChange = "2019-09-04 12:33:25 +0000";
+lastChange = "2026-10-08 09:35:18 +0000";
 layers = (
 {
 hints = (
@@ -5983,7 +6000,7 @@ nodes = (
 );
 }
 );
-width = 702;
+width = 687.62;
 }
 );
 leftKerningGroup = C;
